@@ -1,0 +1,10 @@
+{
+  "accentColor": "#f6ca52",
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "",
+  "textFontFamily": "Input Mono",
+  "monospaceFontFamily": "Input Mono",
+  "showViewHeader": false,
+  "nativeMenus": false,
+  "theme": "obsidian"
+}

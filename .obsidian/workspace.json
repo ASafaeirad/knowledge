@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "e47b588cfacd65eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecd79d3d56bd8b2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fee0bd4db874677",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "32cfb87b0e6ccb8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ec5e054aee0e66f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "971c6b6d196cc566",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "608abe3705630b51",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#logic",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "068fd694a4de8979",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "dc8d7b1fd8112bda",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e58b0a1800cf593",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3603bdf58fc982de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1116e52a937700ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7cd7fdb6855a8674",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "756973f6c03f06ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "133269cf992fa560",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": true,
+      "random-note:Open random note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "3fee0bd4db874677",
+  "lastOpenFiles": [
+    "Software/FP in TS/FP in TS.md",
+    "Software/Software.md",
+    "System Thinking/System Thinking.md",
+    "System Thinking/DMN (Default Mode Network).md",
+    "System Thinking/4 Generation of Time Management.md",
+    "Software/Why Pull Requests Are A Bad IDEA.md",
+    "Collaborative Requirements Gathering.md",
+    "Philosophy/Aristotle.md",
+    "Software/Open source problems.md",
+    "Software/OOP Jungle.md"
+  ]
+}

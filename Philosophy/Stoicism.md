@@ -1,0 +1,49 @@
+#philosophy #todo
+
+## Overview
+It is a philosophy of personal [virtue ethics](https://en.wikipedia.org/wiki/Virtue_ethics) informed by its system of [[logic]] and its views on the natural world, asserting that the practice of virtue is both necessary and sufficient to achieve [[Eudaimonia]].
+
+The Stoics identified the path to [[Eudaimonia]] with a life spent practicing the [cardinal virtues](https://en.wikipedia.org/wiki/Cardinal_virtues) and living in accordance with nature.
+
+The Stoic philosopher Epictetus starts his work the Enchiridion with the fundamental tenet of Stoicism.
+
+
+همه فرایند های طبیعی، مانند بیماری و سلامتی، تابع قوانین ناگسستنی طبیعت هستند.
+بنابراین انسان باید یاد بگیرد که سرنوشت خود را بپذیرد چرا که هیچ چیز به طور تصادفی اتفاق نمی افتد و همه چیز از روی ضرورت اتفاق می افتد.
+زمانی که سرنوشت برسد شکایت کردن دیگر فایده ای ندارد
+انسان باید رویداد های خوب زندگی را بدون نگرانی بپذیرد.
+
+## The Power of Indifference
+
+From the human perspective two categories can be distinguished:
+* Things that we do not control.
+* Things that we do control.
+
+There is nothing we can do to exclude misfortune.
+We should focus on the things within our control and have a contempt for the things not in our control
+
+There are still aspect of our life that are up to us:
+* The position we take towards the world around us.
+
+Stoicism points to life in accordance with nature.
+We shouldn't act against the natural course of thing but embrace it.
+
+Emotion is a human characteristic that can be trumped by reason.
+It's not the emotion that decides our mood but the position we take towards the emotion.
+
+## Memento mori (Remember that you will die)
+Life is temporary, don't waste time on trivial things.
+## The View From Above
+See our self from the cosmic point of view, so we realize how small and unimportant we are compared to the vastness of the universe.
+
+## Summary
+That indifference is a power the Stoics know very well, life is short and that's why it's important to point our life energy towards essential and important things and leave unimportant things be.
+
+## People
+## [[Marcus Aurelius]]
+
+### Resources
+
+* *[رواقی‌گری - ویکی‌پدیا، دانشنامهٔ آزاد](https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%A7%D9%82%DB%8C%E2%80%8C%DA%AF%D8%B1%DB%8C)
+* [Stoicism - Wikipedia](https://en.wikipedia.org/wiki/Stoicism)
+* https://youtu.be/R9OCA6UFE-0

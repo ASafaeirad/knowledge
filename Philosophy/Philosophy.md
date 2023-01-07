@@ -1,0 +1,21 @@
+%% Begin Waypoint %%
+- [[Aristotle]]
+- [[Cogent]]
+- [[Confirmation Bias]]
+- [[Deduction]]
+- [[Eudaimonia]]
+- [[God Delusion]]
+- [[Induction]]
+- [[Inference]]
+- [[Information Bubble]]
+- [[Logic Vocabulary]]
+- [[Logic]]
+- [[Maturity]]
+- [[Nasionalism]]
+- [[Philosophy of logic]]
+- [[Premise]]
+- [[Sound]]
+- [[Stoicism]]
+- [[Wu-wei The Art of Letting Things Happen]]
+
+%% End Waypoint %%
