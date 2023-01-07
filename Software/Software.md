@@ -1,6 +1,7 @@
 %% Begin Waypoint %%
 - [[Bash Arrays]]
 - [[Cargo Cult Programming]]
+- [[Collaborative Requirements Gathering]]
 - **[[FP in TS]]**
 
 - [[Function Intersection]]

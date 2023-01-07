@@ -15,16 +15,16 @@
 
 
 ## Deductive Arguments
-[[Deduction|Deductive arguments]] are [[valid]], [[invalid]], [[sound]], and [[unsound]].
+[[Deduction|Deductive arguments]] are [[Valid]], [[Invalid]], [[sound]], and [[Unsound]].
 
 1. **Test the [[Inference]]**:
-   If the deductive argument has a good inference, it is a [[valid|valid argument]]. If the deductive argument has a bad inference, it is [[invalid]].
+   If the deductive argument has a good inference, it is a [[Valid|valid argument]]. If the deductive argument has a bad inference, it is [[Invalid]].
 2. **Test the [[Premise|premises]]**
-   If the argument is [[valid]] and the [[premise|premises]] are true, the argument is [[sound]]. If the argument is [[valid]] and the [[premise|premises]] are false, the argument is [[unsound]].
-   Finally, all invalid arguments are also considered [[unsound]].
+   If the argument is [[Valid]] and the [[premise|premises]] are true, the argument is [[sound]]. If the argument is [[Valid]] and the [[premise|premises]] are false, the argument is [[Unsound]].
+   Finally, all invalid arguments are also considered [[Unsound]].
 
 ## Inductive Arguments
-[[Induction|Inductive arguments]] are [[strong]], [[weak]], [[cogent]], or [[uncogent]]
+[[Induction|Inductive arguments]] are [[Strong]], [[Weak]], [[cogent]], or [[Uncogent]]
 
 1. **Test the [[Inference]]**:
    If the inductive argument has a good inference, it is a strong argument. If the inductive argument has a bad inference, it is weak.

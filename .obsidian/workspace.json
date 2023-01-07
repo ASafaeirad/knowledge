@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "ecd79d3d56bd8b2a",
+        "id": "26a5c6fa2d7e50c0",
         "type": "tabs",
         "children": [
           {
-            "id": "3fee0bd4db874677",
+            "id": "3522c4c26cbfec94",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "dc8d7b1fd8112bda",
@@ -150,17 +149,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3fee0bd4db874677",
+  "active": "971c6b6d196cc566",
   "lastOpenFiles": [
-    "Software/FP in TS/FP in TS.md",
-    "Software/Software.md",
-    "System Thinking/System Thinking.md",
-    "System Thinking/DMN (Default Mode Network).md",
-    "System Thinking/4 Generation of Time Management.md",
-    "Software/Why Pull Requests Are A Bad IDEA.md",
-    "Collaborative Requirements Gathering.md",
-    "Philosophy/Aristotle.md",
-    "Software/Open source problems.md",
-    "Software/OOP Jungle.md"
+    "Marcus Aurelius.md",
+    "Outliers - The Story of Success.md",
+    "Philosophy/Strong.md",
+    "This took me 10 years to learn, I'll teach it to you in 5 minutes.md",
+    "Philosophy/Unsound.md",
+    "Philosophy/Invalid.md",
+    "Software/Collaborative Requirements Gathering.md",
+    "Dunbar number.md",
+    "Philosophy/Epicurus.md",
+    "Software/FP in TS/FP in TS.md"
   ]
 }

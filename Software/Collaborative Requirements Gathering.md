@@ -1,3 +1,4 @@
+#software #requirement
 
 Many different approaches to collaborative requirements gathering have been proposed. Each makes use of a slightly different scenario, but all apply some variation on the following basic guidelines:
 
