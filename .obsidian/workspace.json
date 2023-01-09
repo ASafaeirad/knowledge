@@ -4,18 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "26a5c6fa2d7e50c0",
+        "id": "2982c6a4b19bf73a",
         "type": "tabs",
         "children": [
           {
-            "id": "3522c4c26cbfec94",
+            "id": "8fce4aab9bda5d43",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mastery/The 4 things it takes to be an expert.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "405a80be6e802c45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosophy/Stoicism.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79efb90868248fc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Top Quotes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dc8d7b1fd8112bda",
@@ -81,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Philosophy/Stoicism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Philosophy/Stoicism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Philosophy/Stoicism.md"
+              }
             }
           },
           {
@@ -149,17 +186,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "971c6b6d196cc566",
+  "active": "405a80be6e802c45",
   "lastOpenFiles": [
-    "Marcus Aurelius.md",
-    "Outliers - The Story of Success.md",
-    "Philosophy/Strong.md",
+    "Top Quotes.md",
+    "Philosophy/Stoicism.md",
     "This took me 10 years to learn, I'll teach it to you in 5 minutes.md",
-    "Philosophy/Unsound.md",
-    "Philosophy/Invalid.md",
-    "Software/Collaborative Requirements Gathering.md",
-    "Dunbar number.md",
-    "Philosophy/Epicurus.md",
-    "Software/FP in TS/FP in TS.md"
+    "Mastery/Deliberate Practice.md",
+    "Mastery/The 4 things it takes to be an expert.md",
+    "Mastery/Game vs Work.md",
+    "Mastery/Active Recall Space Repition.md",
+    "Mastery/Habit & Routines.md",
+    "Mastery/How to be heard while stay quite.md",
+    "Mastery/How to become more Interesting.md"
   ]
 }

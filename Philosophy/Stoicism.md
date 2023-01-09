@@ -13,11 +13,15 @@ The Stoic philosopher Epictetus starts his work the Enchiridion with the fundame
 زمانی که سرنوشت برسد شکایت کردن دیگر فایده ای ندارد
 انسان باید رویداد های خوب زندگی را بدون نگرانی بپذیرد.
 
+The core of Stoicism is the very definition of acceptance and indifference.
+
 ## The Power of Indifference
 
 From the human perspective two categories can be distinguished:
 * Things that we do not control.
 * Things that we do control.
+
+Although we don't have much control over what happens to us, we do have control of how it affects us, and must use this control to great effect.
 
 There is nothing we can do to exclude misfortune.
 We should focus on the things within our control and have a contempt for the things not in our control
@@ -35,6 +39,18 @@ It's not the emotion that decides our mood but the position we take towards the 
 Life is temporary, don't waste time on trivial things.
 ## The View From Above
 See our self from the cosmic point of view, so we realize how small and unimportant we are compared to the vastness of the universe.
+
+## 10 Ways to Be More Stoic:
+01. Transform everyone into a teacher.
+02. Say no to the easy way, seek out challenges. 
+03. Be strict with yourself but tolerant of others. 
+04. Allow the journey to be the thing.
+05. Transform envy into emulation. 
+06. Stand on the shoulders of giants.
+07. Forgive yourself and forgive others.
+08. Fall in love with Fate.
+09. Always practice courage, temperance, and humor.
+10. Remember, the obstacle is the path.
 
 ## Summary
 That indifference is a power the Stoics know very well, life is short and that's why it's important to point our life energy towards essential and important things and leave unimportant things be.

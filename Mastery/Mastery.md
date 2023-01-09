@@ -2,6 +2,7 @@
 - [[10,000 Hours]]
 - [[1000 Fans]]
 - [[Active Recall Space Repition]]
+- [[Deliberate Practice]]
 - [[Game vs Work]]
 - [[Habit & Routines]]
 - [[How to be heard while stay quite]]
@@ -11,4 +12,5 @@
 - [[Process of experimentation]]
 - [[The 4 things it takes to be an expert]]
 - [[Visualization]]
+
 %% End Waypoint %%

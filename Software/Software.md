@@ -1,4 +1,5 @@
 %% Begin Waypoint %%
+- [[AI Environments]]
 - [[Bash Arrays]]
 - [[Cargo Cult Programming]]
 - [[Collaborative Requirements Gathering]]
