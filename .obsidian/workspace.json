@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "2982c6a4b19bf73a",
+        "id": "00812499e312cde5",
         "type": "tabs",
         "children": [
           {
-            "id": "8fce4aab9bda5d43",
+            "id": "7578aed8b78a4798",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mastery/The 4 things it takes to be an expert.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "405a80be6e802c45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philosophy/Stoicism.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79efb90868248fc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Top Quotes.md",
+                "file": "Vocab/Graham's Hierarchy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "dc8d7b1fd8112bda",
@@ -114,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Stoicism.md",
+                "file": "Vocab/Graham's Hierarchy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Stoicism.md",
+                "file": "Vocab/Graham's Hierarchy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/Stoicism.md"
+                "file": "Vocab/Graham's Hierarchy.md"
               }
             }
           },
@@ -186,17 +158,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "405a80be6e802c45",
+  "active": "971c6b6d196cc566",
   "lastOpenFiles": [
+    "Mastery/Growth is not linear.md",
+    "The prisoner's dilemma.md",
+    "Assets/Graham Pyramid.png",
+    "Vocab/Graham's Hierarchy.md",
+    "Limit of Language.md",
     "Top Quotes.md",
-    "Philosophy/Stoicism.md",
+    "Vocab/Empirical definition.md",
+    "Philosophy/Homonym.md",
     "This took me 10 years to learn, I'll teach it to you in 5 minutes.md",
-    "Mastery/Deliberate Practice.md",
-    "Mastery/The 4 things it takes to be an expert.md",
-    "Mastery/Game vs Work.md",
-    "Mastery/Active Recall Space Repition.md",
-    "Mastery/Habit & Routines.md",
-    "Mastery/How to be heard while stay quite.md",
-    "Mastery/How to become more Interesting.md"
+    "Notes.md"
   ]
 }
