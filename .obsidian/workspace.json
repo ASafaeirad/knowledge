@@ -4,16 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "00812499e312cde5",
+        "id": "3571417b5fca0ed8",
         "type": "tabs",
         "children": [
           {
-            "id": "7578aed8b78a4798",
+            "id": "7ccb573b6fbe02f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocab/Graham's Hierarchy.md",
+                "file": "Human/Human.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32a2daff770c8a6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mastery/Morning Routine.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a73e3e3cff8f32ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mastery/Mastery.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocab/Graham's Hierarchy.md",
+                "file": "Human/Human.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocab/Graham's Hierarchy.md",
+                "file": "Human/Human.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocab/Graham's Hierarchy.md"
+                "file": "Human/Human.md"
               }
             }
           },
@@ -158,17 +184,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "971c6b6d196cc566",
+  "active": "7ccb573b6fbe02f1",
   "lastOpenFiles": [
-    "Mastery/Growth is not linear.md",
-    "The prisoner's dilemma.md",
-    "Assets/Graham Pyramid.png",
-    "Vocab/Graham's Hierarchy.md",
-    "Limit of Language.md",
+    "Mastery/Morning Routine.md",
+    "Mastery/Mastery.md",
+    "Human/Human.md",
+    "Marcus Aurelius.md",
+    "Notes.md",
     "Top Quotes.md",
-    "Vocab/Empirical definition.md",
-    "Philosophy/Homonym.md",
     "This took me 10 years to learn, I'll teach it to you in 5 minutes.md",
-    "Notes.md"
+    "The prisoner's dilemma.md",
+    "Human/Testosterone.md",
+    "Human/Sympathetic Nervous System.md"
   ]
 }

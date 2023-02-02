@@ -6,6 +6,7 @@
 - **[[FP in TS]]**
 
 - [[Function Intersection]]
+- [[GDPR]]
 - [[Github Action Debug]]
 - [[Heisenbug]]
 - [[Keyboard Layout]]
