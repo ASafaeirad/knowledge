@@ -11,6 +11,7 @@
 - [[How To Get People To Open Up]]
 - [[Infinite Player]]
 - [[Morning Routine]]
+- [[Parkinson's law]]
 - [[Process of experimentation]]
 - [[The 4 things it takes to be an expert]]
 - [[Visualization]]
