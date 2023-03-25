@@ -1,7 +1,11 @@
 ## Job
-Sweet Spot
-Ikigai
+* Sweet Spot and Ikigai
+* Resilience
+* Earth overshoot day (Recycling)
 
-Resiliance
+## Lead
+* Expectation management (Team lead)
+* Agenda management
+
 
 باز نگه داشتن گزینه های زیاد هزینه داره

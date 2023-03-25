@@ -35,8 +35,25 @@ We shouldn't act against the natural course of thing but embrace it.
 Emotion is a human characteristic that can be trumped by reason.
 It's not the emotion that decides our mood but the position we take towards the emotion.
 
+## Amor Fati
+It means loving your fate.
+
+> My formula for human greatness is Amor Fat: That one wants nothing to be different, not in the future, not in the past, not for all eternity.
+  Not only to endure what is necessary, still less to conceal it - All idealism is falseness in the face of necessity - but to love it.
+> - Nietzsche
+
+Anxious people has control freak, freak of simply cannot handle insecurity, therefore they generate anxiety because the anxious mind cannot figure out what the future will bring, but keeps trying anyway.
+Stoic people fully embrace fate no matter what.
+
+Amor Fati, means you make the best out of every moment, and work toward your goals, give them everything, but when the result is turn out to be different than you expected, fully embrace and accept your fate.
+
+Amor Fati put you in a position which you simply can't go wrong and when things can go wrong, there's noting to worry about.
+
+Embrace your destiny, no matter what, and you'll have nothing to fear.
+
 ## Memento mori (Remember that you will die)
 Life is temporary, don't waste time on trivial things.
+
 ## The View From Above
 See our self from the cosmic point of view, so we realize how small and unimportant we are compared to the vastness of the universe.
 

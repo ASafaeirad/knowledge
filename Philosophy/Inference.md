@@ -9,7 +9,7 @@ A third type of inference is sometimes distinguished, notably by [Charles Sande
 Etymologically the word _[infer](https://en.wiktionary.org/wiki/infer "wikt:infer")_ means to "carry forward".
 
 ## Rules
-In the [[philosophy of logic]] **rule of inference**, **inference rule** or **transformation rule** is a [logical form](https://en.wikipedia.org/wiki/Logical_form "Logical form") consisting of a function which takes premises, analyzes their [syntax](https://en.wikipedia.org/wiki/Syntax_(logic) "Syntax (logic)"), and returns a conclusion (or [conclusions](https://en.wikipedia.org/wiki/Multiple-conclusion_logic "Multiple-conclusion logic")).
+In the [[philosophy of logic]] **rule of inference**, **inference rule** or **transformation rule** is a [logical form](https://en.wikipedia.org/wiki/Logical_form "Logical form") consisting of a function which takes premises, analyzes their [syntax](https://en.wikipedia.org/wiki/Syntax_(logic) "Syntax (logic)"), and returns a conclusion (or [conclusions](https://en.wikipedia.org/wiki/Multiple-conclusion_logic "Multiple-conclusion logic")).
 
 ## Resources
 https://en.wikipedia.org/wiki/Inference

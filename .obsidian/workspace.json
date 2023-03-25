@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Inference.md",
+                "file": "Locus Coeruleus.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Inference.md",
+                "file": "Locus Coeruleus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Inference.md",
+                "file": "Locus Coeruleus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/Inference.md"
+                "file": "Locus Coeruleus.md"
               }
             }
           },
@@ -158,8 +158,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f7c6901788ccc697",
+  "active": "971c6b6d196cc566",
   "lastOpenFiles": [
+    "Top Quotes.md",
+    "Philosophy/Stoicism.md",
+    "Philosophy/Philosophy.md",
+    "Philosophy/Premise.md",
+    "Philosophy/Maturity.md",
+    "Philosophy/Logic Vocabulary.md",
+    "Philosophy/Inference.md",
     "Mastery/Mastery.md",
     "Mastery/Morning Routine.md",
     "Mastery/Parkinson's law.md",
@@ -168,7 +175,6 @@
     "Medial pre-optic Area.md",
     "Human/Human.md",
     "Marcus Aurelius.md",
-    "Notes.md",
-    "Top Quotes.md"
+    "Notes.md"
   ]
 }

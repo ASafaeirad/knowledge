@@ -1,4 +1,4 @@
-#note #mastery #planning #todo
+#note #mastery #planning
 
 # Practices
 ## Get Natural Light in your eyes within 1-hour of waking up
@@ -29,18 +29,21 @@ Exercise also can clear out the Adenosine.
 
 ## Temperature
 
-2 Hours before body wake-up cycle, the body temperature is in its lowest temperature, we wake up because of increasing the core body temperature. Increasing core body temperature triggers the increasing [[Cortisol]].
+The body temperature is at its lowest 2 hours before the wake-up cycle, and we wake up as a result of boosting the core body temperature. Increased core body temperature causes an increase in [[Cortisol]].
 
-Viewing the light at the same time you en-train your body that is going to happen at the same time the next day, the clocks of your body are matched to this cortisol pulse.
+Viewing the light at the same moment trains your body for what will happen at the same time the next day, since your body's clocks are synchronized with this cortisol pulse.
 
-When your body reaches the temperature maximum (on 3 P.M) you might be sleepy on that time, and then it starts to drop and you get sleepy, so make sure you keep your room cool for sleeping.
+When your body temperature reaches its maximum (about 3 p.m.), you may feel sleepy, and then it begins to fall and you become sleepy, therefore keep your room cool when sleeping.
 
 The goal is increase the body temperature when you want to be awake and decrease it when you want to sleep.
 
-E
+* Exercise increases the body temperature
 
+Taking a cold shower causes hypothermia because we have a small area in our brain called the [[Medial Pre-optic Area]] and if you make the surface of your body cold, your core body temperature rises.
+The shock is [[Adrenaline]], also known as [[Epinephrine]], and it is released from the [[Adrenals]] and a side of the brain called the [[Locus Coeruleus]]; Epinephrine wakes up the rest of the brain.
 
-
+![[Pasted image 20230207190648.png]]
+A study found that after a minute of cold showering, humans have a long arc of Dopamine and Epinephrine.
 
 ## Resources
 [The Optimal Morning Routine - Andrew Huberman](https://www.youtube.com/watch?v=gR_f-iwUGY4)

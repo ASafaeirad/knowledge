@@ -1,7 +1,7 @@
 %% Begin Waypoint %%
 - [[Aristotle]]
 - [[Cogent]]
-- [[Confirmation Bias]]
+- [[Philosophy/Confirmation Bias]]
 - [[Cyrenaics]]
 - [[Deduction]]
 - [[Epicurus]]
