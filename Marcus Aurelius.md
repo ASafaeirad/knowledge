@@ -1,6 +1,6 @@
 #todo #people
 
-He wrote about determniation 
+He wrote about determination 
 
 ## Quotes
 

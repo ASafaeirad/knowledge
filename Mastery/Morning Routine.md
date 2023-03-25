@@ -39,10 +39,10 @@ The goal is increase the body temperature when you want to be awake and decrease
 
 * Exercise increases the body temperature
 
-Taking a cold shower causes hypothermia because we have a small area in our brain called the [[Medial Pre-optic Area]] and if you make the surface of your body cold, your core body temperature rises.
+Taking a cold shower causes hypothermia because we have a small area in our brain called the [[Medial pre-optic Area]] and if you make the surface of your body cold, your core body temperature rises.
 The shock is [[Adrenaline]], also known as [[Epinephrine]], and it is released from the [[Adrenals]] and a side of the brain called the [[Locus Coeruleus]]; Epinephrine wakes up the rest of the brain.
 
-![[Pasted image 20230207190648.png]]
+![[Pleasure vs Pain.png]]
 A study found that after a minute of cold showering, humans have a long arc of Dopamine and Epinephrine.
 
 ## Resources
