@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a523e7ada2938cd2",
+        "id": "0418fdae51ff1f44",
         "type": "tabs",
         "children": [
           {
-            "id": "8315f666ca964527",
+            "id": "4802b411c4b01bd6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philosophy/Eudaimonia.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Eudaimonia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Eudaimonia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Philosophy/Eudaimonia.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,10 +149,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8315f666ca964527",
+  "active": "4802b411c4b01bd6",
   "lastOpenFiles": [
-    "Philosophy/God Delusion.md",
+    "Quotes/Quotes.md",
+    "Quotes/Top Quotes.md",
+    "Success.md",
     "Philosophy/Eudaimonia.md",
+    "Philosophy/God Delusion.md",
     "Philosophy/Epicurus.md",
     "Philosophy/Deduction.md",
     "Philosophy/Cyrenaics.md",
@@ -174,8 +168,6 @@
     "Human/Adrenals.md",
     "Marcus Aurelius.md",
     "This took me 10 years to learn, I'll teach it to you in 5 minutes.md",
-    "Quotes/Top Quotes.md",
-    "Quotes/Quotes.md",
     "Human/Medial pre-optic Area.md",
     "Mastery/Morning Routine.md",
     "Mastery/Mastery.md",
@@ -185,7 +177,6 @@
     "Philosophy/Premise.md",
     "Philosophy/Maturity.md",
     "Philosophy/Logic Vocabulary.md",
-    "Philosophy/Inference.md",
-    "Mastery/Parkinson's law.md"
+    "Philosophy/Inference.md"
   ]
 }
