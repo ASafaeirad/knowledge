@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "adc0622021f1da7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to Get Ahead of 99% of People.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quotes/Quotes.md",
+                "file": "How to Get Ahead of 99% of People.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quotes/Quotes.md",
+                "file": "How to Get Ahead of 99% of People.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quotes/Quotes.md"
+                "file": "How to Get Ahead of 99% of People.md"
               }
             }
           },
@@ -158,12 +172,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bf030d1675b65ec5",
+  "active": "adc0622021f1da7c",
   "lastOpenFiles": [
+    "Quotes/Quotes.md",
+    "How to Get Ahead of 99% of People.md",
     "Quotes/Maturity.md",
     "Quotes/Limit of Language.md",
     "Quotes/Top Quotes.md",
-    "Quotes/Quotes.md",
     "Success.md",
     "Philosophy/Eudaimonia.md",
     "Philosophy/God Delusion.md",
@@ -185,7 +200,6 @@
     "Assets/Pleasure vs Pain.png",
     "Philosophy/Stoicism.md",
     "Philosophy/Philosophy.md",
-    "Philosophy/Premise.md",
-    "Philosophy/Logic Vocabulary.md"
+    "Philosophy/Premise.md"
   ]
 }
