@@ -1,7 +1,7 @@
 %% Begin Waypoint %%
 - [[Aristotle]]
 - [[Cogent]]
-- [[Philosophy/Confirmation Bias]]
+- [[Confirmation Bias]]
 - [[Cyrenaics]]
 - [[Deduction]]
 - [[Epicurus]]
@@ -14,7 +14,6 @@
 - [[Invalid]]
 - [[Logic Vocabulary]]
 - [[Logic]]
-- [[Maturity]]
 - [[Nasionalism]]
 - [[Philosophy of logic]]
 - [[Premise]]

@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0418fdae51ff1f44",
+        "id": "d4c5edcceded5cc1",
         "type": "tabs",
         "children": [
           {
-            "id": "4802b411c4b01bd6",
+            "id": "bf030d1675b65ec5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Quotes/Quotes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Quotes/Quotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Quotes/Quotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Quotes/Quotes.md"
+              }
             }
           },
           {
@@ -149,10 +158,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4802b411c4b01bd6",
+  "active": "bf030d1675b65ec5",
   "lastOpenFiles": [
-    "Quotes/Quotes.md",
+    "Quotes/Maturity.md",
+    "Quotes/Limit of Language.md",
     "Quotes/Top Quotes.md",
+    "Quotes/Quotes.md",
     "Success.md",
     "Philosophy/Eudaimonia.md",
     "Philosophy/God Delusion.md",
@@ -175,8 +186,6 @@
     "Philosophy/Stoicism.md",
     "Philosophy/Philosophy.md",
     "Philosophy/Premise.md",
-    "Philosophy/Maturity.md",
-    "Philosophy/Logic Vocabulary.md",
-    "Philosophy/Inference.md"
+    "Philosophy/Logic Vocabulary.md"
   ]
 }

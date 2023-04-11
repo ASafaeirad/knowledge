@@ -16,3 +16,9 @@
 
 >Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations.
 >- Conway’s Law
+
+> We live on an Island surrounded by a sea of ignorance. As our island of knowledge grows, so does the shore of our ignorance.
+> 
+> - John Wheeler
+
+[Sa'di Knowing](https://ganjoor.net/saadi/boostan/bab4/sh15)
