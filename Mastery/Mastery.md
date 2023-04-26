@@ -14,6 +14,7 @@
 - [[Parkinson's law]]
 - [[Process of experimentation]]
 - [[The 4 things it takes to be an expert]]
+- [[This took me 10 years to learn, I'll teach it to you in 5 minutes]]
 - [[Visualization]]
 
 %% End Waypoint %%

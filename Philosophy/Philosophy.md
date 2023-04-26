@@ -7,6 +7,7 @@
 - [[Epicurus]]
 - [[Eudaimonia]]
 - [[God Delusion]]
+- [[Golden Rule]]
 - [[Homonym]]
 - [[Induction]]
 - [[Inference]]

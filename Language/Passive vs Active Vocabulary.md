@@ -1,3 +1,5 @@
+#english
+
 In general there are two different categories for all the words we learn, they are either passive or active.
 
 ## Active words:

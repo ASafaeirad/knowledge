@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Passive vs Active Word.md",
+                "file": "Mastery/This took me 10 years to learn, I'll teach it to you in 5 minutes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9458b7821439a3ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosophy/Golden Rule.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Passive vs Active Word.md",
+                "file": "Philosophy/Golden Rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Passive vs Active Word.md",
+                "file": "Philosophy/Golden Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Passive vs Active Word.md"
+                "file": "Philosophy/Golden Rule.md"
               }
             }
           },
@@ -158,19 +172,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d850a17ccea8d392",
+  "active": "971c6b6d196cc566",
   "lastOpenFiles": [
-    "Marcus Aurelius.md",
+    "Mastery/This took me 10 years to learn, I'll teach it to you in 5 minutes.md",
+    "Philosophy/Golden Rule.md",
+    "The prisoner's dilemma.md",
+    "Success.md",
     "Notes.md",
+    "Marcus Aurelius.md",
     "How to Get Ahead of 99% of People.md",
+    "Language/Passive vs Active Vocabulary.md",
+    "Mastery/The 4 things it takes to be an expert.md",
+    "Language/Collocation.md",
+    "Language",
     "collacations.md",
     "Quotes/Quotes.md",
-    "Passive vs Active Word.md",
-    "Collocation.md",
     "Quotes/Maturity.md",
     "Quotes/Limit of Language.md",
     "Quotes/Top Quotes.md",
-    "Success.md",
     "Philosophy/Eudaimonia.md",
     "Philosophy/God Delusion.md",
     "Philosophy/Epicurus.md",
@@ -179,13 +198,9 @@
     "Philosophy/Confirmation Bias.md",
     "Philosophy/Cogent.md",
     "Philosophy/Aristotle.md",
-    "The prisoner's dilemma.md",
     "Human/Locus Coeruleus.md",
     "Human/Adrenals.md",
-    "This took me 10 years to learn, I'll teach it to you in 5 minutes.md",
     "Human/Medial pre-optic Area.md",
-    "Mastery/Morning Routine.md",
-    "Mastery/Mastery.md",
     "Assets/Pleasure vs Pain.png"
   ]
 }
