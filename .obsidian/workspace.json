@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d4c5edcceded5cc1",
+        "id": "3d6cdadb7623f58b",
         "type": "tabs",
         "children": [
           {
-            "id": "bf030d1675b65ec5",
+            "id": "d850a17ccea8d392",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quotes/Quotes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adc0622021f1da7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to Get Ahead of 99% of People.md",
+                "file": "Passive vs Active Word.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to Get Ahead of 99% of People.md",
+                "file": "Passive vs Active Word.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to Get Ahead of 99% of People.md",
+                "file": "Passive vs Active Word.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to Get Ahead of 99% of People.md"
+                "file": "Passive vs Active Word.md"
               }
             }
           },
@@ -172,10 +158,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "adc0622021f1da7c",
+  "active": "d850a17ccea8d392",
   "lastOpenFiles": [
-    "Quotes/Quotes.md",
+    "Marcus Aurelius.md",
+    "Notes.md",
     "How to Get Ahead of 99% of People.md",
+    "collacations.md",
+    "Quotes/Quotes.md",
+    "Passive vs Active Word.md",
+    "Collocation.md",
     "Quotes/Maturity.md",
     "Quotes/Limit of Language.md",
     "Quotes/Top Quotes.md",
@@ -189,17 +180,12 @@
     "Philosophy/Cogent.md",
     "Philosophy/Aristotle.md",
     "The prisoner's dilemma.md",
-    "Notes.md",
     "Human/Locus Coeruleus.md",
     "Human/Adrenals.md",
-    "Marcus Aurelius.md",
     "This took me 10 years to learn, I'll teach it to you in 5 minutes.md",
     "Human/Medial pre-optic Area.md",
     "Mastery/Morning Routine.md",
     "Mastery/Mastery.md",
-    "Assets/Pleasure vs Pain.png",
-    "Philosophy/Stoicism.md",
-    "Philosophy/Philosophy.md",
-    "Philosophy/Premise.md"
+    "Assets/Pleasure vs Pain.png"
   ]
 }
