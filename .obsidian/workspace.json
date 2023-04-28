@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3d6cdadb7623f58b",
+        "id": "8d4a260f27d1a125",
         "type": "tabs",
         "children": [
           {
-            "id": "d850a17ccea8d392",
+            "id": "ea02daec90ed8d8e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mastery/This took me 10 years to learn, I'll teach it to you in 5 minutes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9458b7821439a3ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philosophy/Golden Rule.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Golden Rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Golden Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Philosophy/Golden Rule.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,7 +149,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "971c6b6d196cc566",
+  "active": "ea02daec90ed8d8e",
   "lastOpenFiles": [
     "Mastery/This took me 10 years to learn, I'll teach it to you in 5 minutes.md",
     "Philosophy/Golden Rule.md",
