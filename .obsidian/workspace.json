@@ -11,8 +11,13 @@
             "id": "ea02daec90ed8d8e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Quotes/Top Quotes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Quotes/Top Quotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Quotes/Top Quotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Quotes/Top Quotes.md"
+              }
             }
           },
           {
@@ -151,6 +160,7 @@
   },
   "active": "ea02daec90ed8d8e",
   "lastOpenFiles": [
+    "Quotes/Quotes.md",
     "Mastery/This took me 10 years to learn, I'll teach it to you in 5 minutes.md",
     "Philosophy/Golden Rule.md",
     "The prisoner's dilemma.md",
@@ -163,7 +173,6 @@
     "Language/Collocation.md",
     "Language",
     "collacations.md",
-    "Quotes/Quotes.md",
     "Quotes/Maturity.md",
     "Quotes/Limit of Language.md",
     "Quotes/Top Quotes.md",

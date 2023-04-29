@@ -14,11 +14,19 @@
 > Perfection is achieved, not when there is nothing left to add but when there is nothing left to take away.
 > — Antoine de Saint-Exupéry
 
->Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations.
->- Conway’s Law
+> Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations.
+> - Conway’s Law
 
 > We live on an Island surrounded by a sea of ignorance. As our island of knowledge grows, so does the shore of our ignorance.
 > 
 > - John Wheeler
 
 [Sa'di Knowing](https://ganjoor.net/saadi/boostan/bab4/sh15)
+
+> I wanted to write you a shorter letter, but I didn’t have the time.
+> - Pascal
+
+> When we are no longer able to change a situation, we are challenged to change ourselves.
+> - Victor Frankl, Man's Search for Meaning (1946)
+
+> Patience: The capacity to accept or tolerate delay, trouble, or suffering without getting angry or upset. Oxford Languages
