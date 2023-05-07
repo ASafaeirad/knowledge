@@ -14,8 +14,22 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "2b591c25d5b71566",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Enginnering.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Software Enginnering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Software Enginnering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Software Enginnering.md"
+              }
             }
           },
           {
@@ -149,8 +167,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "afcf715e07c96852",
+  "active": "2b591c25d5b71566",
   "lastOpenFiles": [
+    "Software Enginnering.md",
     "Quotes/Top Quotes.md",
     "4 Stage of Learning.md",
     "Quotes/Quotes.md",
@@ -177,7 +196,6 @@
     "Philosophy/Cogent.md",
     "Philosophy/Aristotle.md",
     "Human/Locus Coeruleus.md",
-    "Human/Adrenals.md",
     "Assets/Pleasure vs Pain.png"
   ]
 }
