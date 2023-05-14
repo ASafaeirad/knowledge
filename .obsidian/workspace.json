@@ -4,32 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1dcaafaa7836fb1b",
+        "id": "7e8e8bce36baf95e",
         "type": "tabs",
         "children": [
           {
-            "id": "afcf715e07c96852",
+            "id": "8c58fede74f51adc",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "2b591c25d5b71566",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philosophy/Eudaimonia.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Eudaimonia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Eudaimonia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Philosophy/Eudaimonia.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,8 +157,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2b591c25d5b71566",
+  "active": "8c58fede74f51adc",
   "lastOpenFiles": [
+    "Philosophy/Eudaimonia.md",
+    "Philosophy/ابتذال.md",
     "Software Enginnering.md",
     "Quotes/Top Quotes.md",
     "4 Stage of Learning.md",
@@ -195,7 +179,6 @@
     "collacations.md",
     "Quotes/Maturity.md",
     "Quotes/Limit of Language.md",
-    "Philosophy/Eudaimonia.md",
     "Philosophy/God Delusion.md",
     "Philosophy/Epicurus.md",
     "Philosophy/Deduction.md",
@@ -203,7 +186,6 @@
     "Philosophy/Confirmation Bias.md",
     "Philosophy/Cogent.md",
     "Philosophy/Aristotle.md",
-    "Human/Locus Coeruleus.md",
     "Assets/Pleasure vs Pain.png"
   ]
 }

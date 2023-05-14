@@ -26,5 +26,6 @@
 - [[Valid]]
 - [[Weak]]
 - [[Wu-wei The Art of Letting Things Happen]]
+- [[ابتذال]]
 
 %% End Waypoint %%
