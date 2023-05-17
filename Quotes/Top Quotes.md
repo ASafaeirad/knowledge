@@ -29,4 +29,8 @@
 > When we are no longer able to change a situation, we are challenged to change ourselves.
 > - Victor Frankl, Man's Search for Meaning (1946)
 
-> Patience: The capacity to accept or tolerate delay, trouble, or suffering without getting angry or upset. Oxford Languages
+> Patience: The capacity to accept or tolerate delay, trouble, or suffering without getting angry or upset.
+> - Oxford Languages
+
+> If you want to go fast go alone. If you want to go far go together.
+> - African Proverb

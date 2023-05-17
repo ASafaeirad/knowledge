@@ -11,11 +11,30 @@
             "id": "8c58fede74f51adc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Quotes/Quotes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9159b702098ad80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quotes/Top Quotes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Quotes/Top Quotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Quotes/Top Quotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Quotes/Top Quotes.md"
+              }
             }
           },
           {
@@ -157,14 +180,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8c58fede74f51adc",
+  "active": "f9159b702098ad80",
   "lastOpenFiles": [
+    "Quotes/Quotes.md",
+    "Philosophy/Information Bubble.md",
+    "Philosophy/Valid.md",
+    "Philosophy/Weak.md",
+    "Philosophy/Wu-wei The Art of Letting Things Happen.md",
     "Philosophy/Eudaimonia.md",
     "Philosophy/ابتذال.md",
     "Software Enginnering.md",
     "Quotes/Top Quotes.md",
     "4 Stage of Learning.md",
-    "Quotes/Quotes.md",
     "Mastery/This took me 10 years to learn, I'll teach it to you in 5 minutes.md",
     "Philosophy/Golden Rule.md",
     "The prisoner's dilemma.md",
@@ -182,10 +209,6 @@
     "Philosophy/God Delusion.md",
     "Philosophy/Epicurus.md",
     "Philosophy/Deduction.md",
-    "Philosophy/Cyrenaics.md",
-    "Philosophy/Confirmation Bias.md",
-    "Philosophy/Cogent.md",
-    "Philosophy/Aristotle.md",
     "Assets/Pleasure vs Pain.png"
   ]
 }
