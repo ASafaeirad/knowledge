@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c9b0e647ed4976aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tribe.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "dc8d7b1fd8112bda",
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Team/People Management Skills.md",
+                "file": "Tribe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Team/People Management Skills.md",
+                "file": "Tribe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Team/People Management Skills.md"
+                "file": "Tribe.md"
               }
             }
           },
@@ -194,8 +206,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c4f4911d69f2fe93",
+  "active": "c9b0e647ed4976aa",
   "lastOpenFiles": [
+    "Vocab/Anxiety.md",
+    "Quotes/Quotes.md",
+    "Team/People Management Skills.md",
+    "Tribe.md",
     "Software/Software Enginnering.md",
     "Team/Things prepare.md",
     "4 Stage of Learning.md",
@@ -207,10 +223,8 @@
     "Assets/Pasted image 20230517112142.png",
     "Assets/Pasted image 20230517112000.png",
     "Assets/Pasted image 20230517111923.png",
-    "Team/People Management Skills.md",
     "Software/Error Message.md",
     "Quotes/Top Quotes.md",
-    "Quotes/Quotes.md",
     "Philosophy/Information Bubble.md",
     "Philosophy/Valid.md",
     "Philosophy/Weak.md",
@@ -224,8 +238,6 @@
     "Language/Collocation.md",
     "Language",
     "collacations.md",
-    "Quotes/Maturity.md",
-    "Quotes/Limit of Language.md",
     "Assets/Pleasure vs Pain.png"
   ]
 }
