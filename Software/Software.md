@@ -14,6 +14,7 @@
 - [[OOP Jungle]]
 - [[Open source problems]]
 - [[Primitve Obsession]]
+- [[Software Enginnering]]
 - [[Sprint Demo]]
 - **[[Testing Environments]]**
 
