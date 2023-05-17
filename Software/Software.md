@@ -3,6 +3,7 @@
 - [[Bash Arrays]]
 - [[Cargo Cult Programming]]
 - [[Collaborative Requirements Gathering]]
+- [[Error Message]]
 - **[[FP in TS]]**
 
 - [[Function Intersection]]

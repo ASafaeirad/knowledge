@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quotes/Top Quotes.md",
+                "file": "Software/Error Message.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4f4911d69f2fe93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Team/People Management Skills.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quotes/Top Quotes.md",
+                "file": "Team/People Management Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quotes/Top Quotes.md",
+                "file": "Team/People Management Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quotes/Top Quotes.md"
+                "file": "Team/People Management Skills.md"
               }
             }
           },
@@ -180,8 +193,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f9159b702098ad80",
+  "active": "c4f4911d69f2fe93",
   "lastOpenFiles": [
+    "Software/Error Message.md",
+    "Team/People Management Skills.md",
+    "Pasted image 20230517112142.png",
+    "Pasted image 20230517112000.png",
+    "Pasted image 20230517111923.png",
+    "Quotes/Top Quotes.md",
     "Quotes/Quotes.md",
     "Philosophy/Information Bubble.md",
     "Philosophy/Valid.md",
@@ -190,7 +209,6 @@
     "Philosophy/Eudaimonia.md",
     "Philosophy/ابتذال.md",
     "Software Enginnering.md",
-    "Quotes/Top Quotes.md",
     "4 Stage of Learning.md",
     "Mastery/This took me 10 years to learn, I'll teach it to you in 5 minutes.md",
     "Philosophy/Golden Rule.md",
@@ -207,8 +225,6 @@
     "Quotes/Maturity.md",
     "Quotes/Limit of Language.md",
     "Philosophy/God Delusion.md",
-    "Philosophy/Epicurus.md",
-    "Philosophy/Deduction.md",
     "Assets/Pleasure vs Pain.png"
   ]
 }
