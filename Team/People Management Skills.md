@@ -21,6 +21,7 @@ People don't like to be managed, they like to be led.
 * Developing strategies
 
 ## Organization
+We have to look a ways to help our teams become more efficient.
 
 * Coordinating task
 * Set Goals

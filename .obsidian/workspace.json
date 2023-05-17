@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 Stage of Learning.md",
+                "file": "Team/People Management Skills.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dc8d7b1fd8112bda",
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 Stage of Learning.md",
+                "file": "Team/People Management Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 Stage of Learning.md",
+                "file": "Team/People Management Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 Stage of Learning.md"
+                "file": "Team/People Management Skills.md"
               }
             }
           },
@@ -195,11 +196,13 @@
   },
   "active": "c4f4911d69f2fe93",
   "lastOpenFiles": [
+    "Software/Software Enginnering.md",
+    "Team/Things prepare.md",
+    "4 Stage of Learning.md",
     "How to Get Ahead of 99% of People.md",
     "Marcus Aurelius.md",
     "Notes.md",
     "The prisoner's dilemma.md",
-    "Software/Software Enginnering.md",
     "Quotes/Success.md",
     "Assets/Pasted image 20230517112142.png",
     "Assets/Pasted image 20230517112000.png",
@@ -214,7 +217,6 @@
     "Philosophy/Wu-wei The Art of Letting Things Happen.md",
     "Philosophy/Eudaimonia.md",
     "Philosophy/ابتذال.md",
-    "4 Stage of Learning.md",
     "Mastery/This took me 10 years to learn, I'll teach it to you in 5 minutes.md",
     "Philosophy/Golden Rule.md",
     "Language/Passive vs Active Vocabulary.md",
