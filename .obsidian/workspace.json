@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "99c1cc19877f1975",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mastery/This took me 10 years to learn, I'll teach it to you in 5 minutes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tribe.md",
+                "file": "Mastery/This took me 10 years to learn, I'll teach it to you in 5 minutes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tribe.md",
+                "file": "Mastery/This took me 10 years to learn, I'll teach it to you in 5 minutes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tribe.md"
+                "file": "Mastery/This took me 10 years to learn, I'll teach it to you in 5 minutes.md"
               }
             }
           },
@@ -206,14 +219,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c9b0e647ed4976aa",
+  "active": "99c1cc19877f1975",
   "lastOpenFiles": [
+    "Philosophy/Confirmation Bias.md",
+    "Team/Things prepare.md",
+    "Team/Team.md",
+    "Team/Red vs Green Light Thinking.md",
+    "Tribe.md",
     "Vocab/Anxiety.md",
     "Quotes/Quotes.md",
     "Team/People Management Skills.md",
-    "Tribe.md",
     "Software/Software Enginnering.md",
-    "Team/Things prepare.md",
     "4 Stage of Learning.md",
     "How to Get Ahead of 99% of People.md",
     "Marcus Aurelius.md",
@@ -234,10 +250,7 @@
     "Mastery/This took me 10 years to learn, I'll teach it to you in 5 minutes.md",
     "Philosophy/Golden Rule.md",
     "Language/Passive vs Active Vocabulary.md",
-    "Mastery/The 4 things it takes to be an expert.md",
-    "Language/Collocation.md",
     "Language",
-    "collacations.md",
     "Assets/Pleasure vs Pain.png"
   ]
 }
