@@ -8,64 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c58fede74f51adc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quotes/Quotes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9159b702098ad80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software/Error Message.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4f4911d69f2fe93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Team/People Management Skills.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9b0e647ed4976aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tribe.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "99c1cc19877f1975",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mastery/This took me 10 years to learn, I'll teach it to you in 5 minutes.md",
+                "file": "Team/Red Light vs Green Light Thinking.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e405107f05f4098",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Team/3 Modes Of Thinking.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mastery/This took me 10 years to learn, I'll teach it to you in 5 minutes.md",
+                "file": "Team/3 Modes Of Thinking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mastery/This took me 10 years to learn, I'll teach it to you in 5 minutes.md",
+                "file": "Team/3 Modes Of Thinking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mastery/This took me 10 years to learn, I'll teach it to you in 5 minutes.md"
+                "file": "Team/3 Modes Of Thinking.md"
               }
             }
           },
@@ -219,16 +180,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "99c1cc19877f1975",
+  "active": "3e405107f05f4098",
   "lastOpenFiles": [
-    "Philosophy/Confirmation Bias.md",
-    "Team/Things prepare.md",
-    "Team/Team.md",
-    "Team/Red vs Green Light Thinking.md",
-    "Tribe.md",
-    "Vocab/Anxiety.md",
+    "Team/Red Light vs Green Light Thinking.md",
+    "Team/3 Modes Of Thinking.md",
+    "Software/Error Message.md",
     "Quotes/Quotes.md",
     "Team/People Management Skills.md",
+    "Tribe.md",
+    "Critical Thinking.md",
+    "Pasted image 20230520185009.png",
+    "Team/Things prepare.md",
+    "Mastery/This took me 10 years to learn, I'll teach it to you in 5 minutes.md",
+    "Philosophy/Confirmation Bias.md",
+    "Team/Team.md",
+    "Vocab/Anxiety.md",
     "Software/Software Enginnering.md",
     "4 Stage of Learning.md",
     "How to Get Ahead of 99% of People.md",
@@ -239,7 +205,6 @@
     "Assets/Pasted image 20230517112142.png",
     "Assets/Pasted image 20230517112000.png",
     "Assets/Pasted image 20230517111923.png",
-    "Software/Error Message.md",
     "Quotes/Top Quotes.md",
     "Philosophy/Information Bubble.md",
     "Philosophy/Valid.md",
@@ -247,9 +212,6 @@
     "Philosophy/Wu-wei The Art of Letting Things Happen.md",
     "Philosophy/Eudaimonia.md",
     "Philosophy/ابتذال.md",
-    "Mastery/This took me 10 years to learn, I'll teach it to you in 5 minutes.md",
-    "Philosophy/Golden Rule.md",
-    "Language/Passive vs Active Vocabulary.md",
     "Language",
     "Assets/Pleasure vs Pain.png"
   ]
