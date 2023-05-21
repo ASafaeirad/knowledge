@@ -12,3 +12,35 @@ A Tech Lead Is a software engineer, responsible for leading a development team, 
 * Growing Technical Knowledge
 * Technical Risk Management
 * Tech Debt Management
+
+## Tech Lead Test
+Does the code-base look like it was written by a single Person?
+If you can open a file an determine who is written that file, you fail.
+
+We should define a standard or agreement with our team about which pattern and code style we use.
+
+## How to Shift
+
+### Awareness
+Figure out what we need to improve
+
+### Training
+Find training around the areas that we can improve on
+
+### Coaching
+Get feedback and advice
+
+### Practice
+
+## Skills
+
+Empathy
+Self-Awareness
+Motivation
+Conflict Resolution
+Communication
+Coaching
+Feedback
+Influencing
+Delegation
+
