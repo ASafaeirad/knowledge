@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "7e8e8bce36baf95e",
+        "id": "72208ee87f7e6024",
         "type": "tabs",
         "children": [
           {
-            "id": "99c1cc19877f1975",
+            "id": "7498f69619f22f8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Team/Red Light vs Green Light Thinking.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e405107f05f4098",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Team/3 Modes Of Thinking.md",
+                "file": "Team/Tech Lead.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Team/3 Modes Of Thinking.md",
+                "file": "Team/Tech Lead.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Team/3 Modes Of Thinking.md",
+                "file": "Team/Tech Lead.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Team/3 Modes Of Thinking.md"
+                "file": "Team/Tech Lead.md"
               }
             }
           },
@@ -180,16 +166,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3e405107f05f4098",
+  "active": "7498f69619f22f8f",
   "lastOpenFiles": [
+    "Pasted image 20230521090603.png",
     "Team/Red Light vs Green Light Thinking.md",
+    "Assets/Pasted image 20230520185009.png",
+    "Assets/Pasted image 20230521085459.png",
+    "Team/Tech Lead.md",
+    "Team/People Management Skills.md",
     "Team/3 Modes Of Thinking.md",
     "Software/Error Message.md",
     "Quotes/Quotes.md",
-    "Team/People Management Skills.md",
     "Tribe.md",
     "Critical Thinking.md",
-    "Pasted image 20230520185009.png",
     "Team/Things prepare.md",
     "Mastery/This took me 10 years to learn, I'll teach it to you in 5 minutes.md",
     "Philosophy/Confirmation Bias.md",
@@ -210,8 +199,6 @@
     "Philosophy/Valid.md",
     "Philosophy/Weak.md",
     "Philosophy/Wu-wei The Art of Letting Things Happen.md",
-    "Philosophy/Eudaimonia.md",
-    "Philosophy/ابتذال.md",
     "Language",
     "Assets/Pleasure vs Pain.png"
   ]

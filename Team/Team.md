@@ -6,6 +6,7 @@
 - [[People Management Skills]]
 - [[RACI Model]]
 - [[Red Light vs Green Light Thinking]]
+- [[Tech Lead]]
 - [[Things prepare]]
 
 %% End Waypoint %%
