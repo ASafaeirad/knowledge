@@ -44,3 +44,9 @@ Feedback
 Influencing
 Delegation
 
+## Uncertainty
+
+Sometimes there's no right answer.
+
+### People Puzzling
+People are unique and they have different strengths
