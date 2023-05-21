@@ -49,4 +49,15 @@ Delegation
 Sometimes there's no right answer.
 
 ### People Puzzling
+
 People are unique and they have different strengths
+
+## Situational Leadership Model
+
+It's not only **Tell** or **Delegation**. It can be somewhere in between.
+
+**Selling**: You can sell the opportunity, let experienced developers to take on responsibility.
+
+**Participate:** When it's not possible to delegate a task immediately, you need to take part of the team and grow people.
+
+In this model you should think about to decide the mode base on **Skill, Motivation, Urgency**
