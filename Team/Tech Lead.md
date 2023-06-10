@@ -52,6 +52,8 @@ Sometimes there's no right answer.
 
 People are unique and they have different strengths
 
+![[Pasted image 20230524100354.png]]
+
 ## Situational Leadership Model
 
 It's not only **Tell** or **Delegation**. It can be somewhere in between.

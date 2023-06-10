@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Strength Finder.md",
+                "file": "Team/Tech Lead.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Strength Finder.md",
+                "file": "Team/Tech Lead.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Strength Finder.md",
+                "file": "Team/Tech Lead.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Strength Finder.md"
+                "file": "Team/Tech Lead.md"
               }
             }
           },
@@ -168,14 +168,22 @@
   },
   "active": "48da118064a1a63f",
   "lastOpenFiles": [
-    "Team/Tech Lead.md",
-    "Books/Strength Finder.md",
-    "Pasted image 20230521090603.png",
     "Team/Red Light vs Green Light Thinking.md",
+    "Team/RACI Model.md",
+    "Team/People Management Skills.md",
+    "Team/1-to-1 Questions.md",
+    "Team/Bus factor.md",
+    "Team/3 Modes Of Thinking.md",
+    "Team/Tech Lead.md",
+    "Pasted image 20230524100354.png",
+    "Team/Team.md",
+    "Team/How Great People Stay Working for You.md",
+    "Books/Strength Finder.md",
+    "Books/The Art of Seduction.md",
+    "Books/Mastery.md",
+    "Pasted image 20230521090603.png",
     "Assets/Pasted image 20230520185009.png",
     "Assets/Pasted image 20230521085459.png",
-    "Team/People Management Skills.md",
-    "Team/3 Modes Of Thinking.md",
     "Software/Error Message.md",
     "Quotes/Quotes.md",
     "Tribe.md",
@@ -183,7 +191,6 @@
     "Team/Things prepare.md",
     "Mastery/This took me 10 years to learn, I'll teach it to you in 5 minutes.md",
     "Philosophy/Confirmation Bias.md",
-    "Team/Team.md",
     "Vocab/Anxiety.md",
     "Software/Software Enginnering.md",
     "4 Stage of Learning.md",
@@ -191,15 +198,9 @@
     "Marcus Aurelius.md",
     "Notes.md",
     "The prisoner's dilemma.md",
-    "Quotes/Success.md",
     "Assets/Pasted image 20230517112142.png",
     "Assets/Pasted image 20230517112000.png",
     "Assets/Pasted image 20230517111923.png",
-    "Quotes/Top Quotes.md",
-    "Philosophy/Information Bubble.md",
-    "Philosophy/Valid.md",
-    "Philosophy/Weak.md",
-    "Philosophy/Wu-wei The Art of Letting Things Happen.md",
     "Language",
     "Assets/Pleasure vs Pain.png"
   ]
