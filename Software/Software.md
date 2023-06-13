@@ -3,6 +3,7 @@
 - [[Bash Arrays]]
 - [[Cargo Cult Programming]]
 - [[Collaborative Requirements Gathering]]
+- [[Critical Rendering Path]]
 - [[Error Message]]
 - **[[FP in TS]]**
 

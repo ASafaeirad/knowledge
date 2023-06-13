@@ -1,4 +1,5 @@
 #software #AI
+
 An environment in artificial intelligence is the surrounding of the agent. The agent takes input from the environment through sensors and delivers the output to the environment through actuators. There are several types of environments: 
 
 * Fully Observable vs Partially Observable
