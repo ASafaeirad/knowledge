@@ -11,8 +11,13 @@
             "id": "fd83bd6aa92f32e4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Team/Low Performer.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Team/Low Performer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Team/Low Performer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Team/Low Performer.md"
+              }
             }
           },
           {
@@ -143,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,6 +169,9 @@
   },
   "active": "fd83bd6aa92f32e4",
   "lastOpenFiles": [
+    "Quotes/Fall to the level of your system.md",
+    "Quotes/Top Quotes.md",
+    "Team/Low Performer.md",
     "Marcus Aurelius.md",
     "System Thinking/DMN (Default Mode Network).md",
     "Software/AI Environments.md",
@@ -187,9 +200,6 @@
     "Critical Thinking.md",
     "Team/Things prepare.md",
     "Mastery/This took me 10 years to learn, I'll teach it to you in 5 minutes.md",
-    "Philosophy/Confirmation Bias.md",
-    "Vocab/Anxiety.md",
-    "Software/Software Enginnering.md",
     "Assets/Pasted image 20230517112142.png",
     "Assets/Pasted image 20230517112000.png",
     "Assets/Pasted image 20230517111923.png",

@@ -3,6 +3,7 @@
 - [[3 Modes Of Thinking]]
 - [[Bus factor]]
 - [[How Great People Stay Working for You]]
+- [[Low Performer]]
 - [[People Management Skills]]
 - [[RACI Model]]
 - [[Red Light vs Green Light Thinking]]
