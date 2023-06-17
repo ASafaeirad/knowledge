@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Team/Low Performer.md",
+                "file": "Quotes/Quotes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d06323fe5dcc0c8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "dc8d7b1fd8112bda",
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Team/Low Performer.md",
+                "file": "Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Team/Low Performer.md",
+                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Team/Low Performer.md"
+                "file": "Notes.md"
               }
             }
           },
@@ -167,11 +180,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fd83bd6aa92f32e4",
+  "active": "d06323fe5dcc0c8e",
   "lastOpenFiles": [
-    "Quotes/Fall to the level of your system.md",
+    "Pasted image 20230617123631.png",
     "Quotes/Top Quotes.md",
+    "Pasted image 20230617123623.png",
+    "Quotes/Quotes.md",
     "Team/Low Performer.md",
+    "Quotes/Fall to the level of your system.md",
     "Marcus Aurelius.md",
     "System Thinking/DMN (Default Mode Network).md",
     "Software/AI Environments.md",
@@ -195,11 +211,9 @@
     "Assets/Pasted image 20230520185009.png",
     "Assets/Pasted image 20230521085459.png",
     "Software/Error Message.md",
-    "Quotes/Quotes.md",
     "Tribe.md",
     "Critical Thinking.md",
     "Team/Things prepare.md",
-    "Mastery/This took me 10 years to learn, I'll teach it to you in 5 minutes.md",
     "Assets/Pasted image 20230517112142.png",
     "Assets/Pasted image 20230517112000.png",
     "Assets/Pasted image 20230517111923.png",
