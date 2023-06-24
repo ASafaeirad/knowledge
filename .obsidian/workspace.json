@@ -24,13 +24,8 @@
             "id": "d06323fe5dcc0c8e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -108,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,13 +173,15 @@
   },
   "active": "d06323fe5dcc0c8e",
   "lastOpenFiles": [
+    "How to Get Ahead of 99% of People.md",
+    "Marcus Aurelius.md",
+    "Pasted image 20230617123623.png",
+    "Notes.md",
     "Pasted image 20230617123631.png",
     "Quotes/Top Quotes.md",
-    "Pasted image 20230617123623.png",
     "Quotes/Quotes.md",
     "Team/Low Performer.md",
     "Quotes/Fall to the level of your system.md",
-    "Marcus Aurelius.md",
     "System Thinking/DMN (Default Mode Network).md",
     "Software/AI Environments.md",
     "Software/Bash Arrays.md",
@@ -213,11 +206,9 @@
     "Software/Error Message.md",
     "Tribe.md",
     "Critical Thinking.md",
-    "Team/Things prepare.md",
     "Assets/Pasted image 20230517112142.png",
     "Assets/Pasted image 20230517112000.png",
     "Assets/Pasted image 20230517111923.png",
-    "Language",
-    "Assets/Pleasure vs Pain.png"
+    "Language"
   ]
 }
