@@ -13,19 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quotes/Quotes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d06323fe5dcc0c8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Quotes/Top Quotes.md",
                 "mode": "source",
                 "backlinks": true,
@@ -33,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,16 +166,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d06323fe5dcc0c8e",
+  "active": "fd83bd6aa92f32e4",
   "lastOpenFiles": [
+    "Quotes/Quotes.md",
+    "Notes.md",
+    "Quotes/Top Quotes.md",
     "Quotes/Success.md",
     "How to Get Ahead of 99% of People.md",
     "Marcus Aurelius.md",
     "Pasted image 20230617123623.png",
-    "Notes.md",
     "Pasted image 20230617123631.png",
-    "Quotes/Top Quotes.md",
-    "Quotes/Quotes.md",
     "Team/Low Performer.md",
     "Quotes/Fall to the level of your system.md",
     "System Thinking/DMN (Default Mode Network).md",

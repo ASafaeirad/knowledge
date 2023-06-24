@@ -2,10 +2,10 @@
 
 [[Limit of Language]]
 
->The culture of any organisation is shaped by the worst behavior the leader is willing to tolerate 
+> The culture of any organisation is shaped by the worst behavior the leader is willing to tolerate 
  — Gruenter and Whitaker
   
->Culture is shaped by the best behaviour a leader is willing to promote
+> Culture is shaped by the best behaviour a leader is willing to promote
 
 > The beginning of wisdom is to call things by their proper name.
 > - Confucius
