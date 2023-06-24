@@ -21,6 +21,8 @@
 > 
 > - John Wheeler
 
+> As the Island of Knowledge grows, so do the shores of our ignorance — the boundary between the known and unknown. Learning more about the world doesn’t lead to a point closer to a final destination — whose existence is nothing but a hopeful assumption anyways — but to more questions and mysteries. The more we know, the more exposed we are to our ignorance, and the more we know to ask.
+
 [Sa'di Knowing](https://ganjoor.net/saadi/boostan/bab4/sh15)
 
 > I wanted to write you a shorter letter, but I didn’t have the time.
