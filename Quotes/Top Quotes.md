@@ -34,3 +34,6 @@
 
 > If you want to go fast go alone. If you want to go far go together.
 > - African Proverb
+
+> I am not a genius, I am just curious.”
+> - Albert Einstein

@@ -24,8 +24,13 @@
             "id": "d06323fe5dcc0c8e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Quotes/Top Quotes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -103,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Quotes/Top Quotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Quotes/Top Quotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Quotes/Top Quotes.md"
+              }
             }
           },
           {
@@ -173,6 +182,7 @@
   },
   "active": "d06323fe5dcc0c8e",
   "lastOpenFiles": [
+    "Quotes/Success.md",
     "How to Get Ahead of 99% of People.md",
     "Marcus Aurelius.md",
     "Pasted image 20230617123623.png",
@@ -205,7 +215,6 @@
     "Assets/Pasted image 20230521085459.png",
     "Software/Error Message.md",
     "Tribe.md",
-    "Critical Thinking.md",
     "Assets/Pasted image 20230517112142.png",
     "Assets/Pasted image 20230517112000.png",
     "Assets/Pasted image 20230517111923.png",
