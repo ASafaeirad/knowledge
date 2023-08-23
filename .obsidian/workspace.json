@@ -24,9 +24,12 @@
             "id": "201ae381dd91bc3e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.7"
+                "file": "Quotes/Top Quotes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -179,8 +182,8 @@
   },
   "active": "201ae381dd91bc3e",
   "lastOpenFiles": [
-    "Quotes/Success.md",
     "Quotes/Quotes.md",
+    "Quotes/Success.md",
     "Quotes/Limit of Language.md",
     "Quotes/Fall to the level of your system.md",
     "Quotes/Maturity.md",

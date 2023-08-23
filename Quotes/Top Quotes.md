@@ -39,3 +39,6 @@
 
 > I am not a genius, I am just curious.”
 > - Albert Einstein
+
+> Simplicity is the art of maximizing the work not done
+> - Agile
