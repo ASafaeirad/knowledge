@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quotes/Top Quotes.md",
+                "file": "Team/3 Modes Of Thinking.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quotes/Top Quotes.md",
+                "file": "Team/3 Modes Of Thinking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quotes/Top Quotes.md",
+                "file": "Team/3 Modes Of Thinking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quotes/Top Quotes.md"
+                "file": "Team/3 Modes Of Thinking.md"
               }
             }
           },
@@ -182,12 +182,12 @@
   },
   "active": "201ae381dd91bc3e",
   "lastOpenFiles": [
+    "Quotes/Top Quotes.md",
     "Quotes/Quotes.md",
     "Quotes/Success.md",
     "Quotes/Limit of Language.md",
     "Quotes/Fall to the level of your system.md",
     "Quotes/Maturity.md",
-    "Quotes/Top Quotes.md",
     "Notes.md",
     "How to Get Ahead of 99% of People.md",
     "Marcus Aurelius.md",
