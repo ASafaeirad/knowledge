@@ -32,9 +32,68 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "970f5e0c3ccf122f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.11"
+              }
+            }
+          },
+          {
+            "id": "56925e3e209e1fd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quotes/Top Quotes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43a3f002d3d3cd52",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
+          },
+          {
+            "id": "1bf35a2e78c2d37c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self-Regulation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3154c1dc0ce26060",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Time Bilindness.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -108,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Team/3 Modes Of Thinking.md",
+                "file": "Time Bilindness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Team/3 Modes Of Thinking.md",
+                "file": "Time Bilindness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Team/3 Modes Of Thinking.md"
+                "file": "Time Bilindness.md"
               }
             }
           },
@@ -180,19 +239,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "201ae381dd91bc3e",
+  "active": "3154c1dc0ce26060",
   "lastOpenFiles": [
-    "Quotes/Top Quotes.md",
+    "Self-Regulation.md",
+    "Time Bilindness.md",
+    "Perfectionism.md",
     "Quotes/Quotes.md",
+    "Notes.md",
+    "Marcus Aurelius.md",
+    "Assets/Pasted image 20230617123631.png",
+    "Assets/Pasted image 20230617123623.png",
+    "Executive Function.md",
+    "Quotes/Top Quotes.md",
     "Quotes/Success.md",
     "Quotes/Limit of Language.md",
     "Quotes/Fall to the level of your system.md",
     "Quotes/Maturity.md",
-    "Notes.md",
     "How to Get Ahead of 99% of People.md",
-    "Marcus Aurelius.md",
-    "Pasted image 20230617123623.png",
-    "Pasted image 20230617123631.png",
     "Team/Low Performer.md",
     "System Thinking/DMN (Default Mode Network).md",
     "Software/AI Environments.md",
@@ -209,10 +272,6 @@
     "Team/3 Modes Of Thinking.md",
     "Assets/Pasted image 20230524100354.png",
     "Team/Team.md",
-    "Team/How Great People Stay Working for You.md",
-    "Books/Strength Finder.md",
-    "Books/The Art of Seduction.md",
-    "Books/Mastery.md",
     "Assets/Pasted image 20230520185009.png",
     "Assets/Pasted image 20230521085459.png",
     "Assets/Pasted image 20230517112142.png",
