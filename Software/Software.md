@@ -15,6 +15,8 @@
 - [[OOP Jungle]]
 - [[Open source problems]]
 - [[Primitve Obsession]]
+- **React**
+	- [[React.FC]]
 - [[Software Enginnering]]
 - [[Sprint Demo]]
 - **[[Testing Environments]]**

@@ -1,1 +1,7 @@
-#philosophy #concept #logic #todo
+---
+tags:
+  - philosophy
+  - concept
+  - logic
+  - todo
+---
