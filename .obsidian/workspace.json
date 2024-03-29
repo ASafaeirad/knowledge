@@ -4,32 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "86bf15ba6359b308",
+        "id": "5c42fb955c4a4a23",
         "type": "tabs",
         "children": [
           {
-            "id": "b2aba59e8feed96d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "8db108df98f1ae57",
+            "id": "95fb7ac187e50447",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anti-Corruption Layer.md",
+                "file": "Quotes/Avoidance.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anti-Corruption Layer.md",
+                "file": "Quotes/Avoidance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anti-Corruption Layer.md",
+                "file": "Quotes/Avoidance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anti-Corruption Layer.md"
+                "file": "Quotes/Avoidance.md"
               }
             }
           },
@@ -156,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -171,38 +162,39 @@
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
       "command-palette:Open command palette": true,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8db108df98f1ae57",
+  "active": "95fb7ac187e50447",
   "lastOpenFiles": [
-    "Anti-Corruption Layer.md",
-    "Philosophy/Cogent.md",
-    "Software/React/React.FC.md",
-    "Resume Types.md",
-    "Perfectionism.md",
-    "Software/React",
-    "Terms.md",
-    "What I've Learned from Estateguru.md",
-    "Human/Estrogen.md",
-    "Human/ADHD/Self-Regulation.md",
+    "Quotes/Fall to the level of your system.md",
+    "Quotes/Limit of Language.md",
+    "Quotes/Maturity.md",
+    "Quotes/Success.md",
+    "Team/Red Light vs Green Light Thinking.md",
+    "Team/People Management Skills.md",
+    "Team/Low Performer.md",
+    "Team/How Great People Stay Working for You.md",
+    "Team/Bus factor.md",
+    "Team/1-to-1 Questions.md",
     "Quotes/Top Quotes.md",
-    "Team/3 Modes Of Thinking.md",
-    "Human/Cortisol.md",
-    "Human/Caffeine.md",
-    "Human/Adenosine.md",
-    "Human/Testosterone.md",
-    "Human/Sympathetic Nervous System.md",
-    "Human/Parasympathetic Nervous System.md",
-    "Human/Medial pre-optic Area.md",
-    "Human/Locus Coeruleus.md",
-    "Human/Human.md",
-    "Notes.md",
-    "Critical Thinking.md",
-    "How to Get Ahead of 99% of People.md",
-    "Human/ADHD/Executive Function.md",
+    "Quotes/Avoidance.md",
+    "Software/Testing Environments/Testing Environments.md",
+    "Mastery/Deliberate Practice.md",
+    "Vocab/Dopamine.md",
     "Vocab/Tribe.md",
-    "The prisoner's dilemma.md",
+    "Human/Locus Coeruleus.md",
+    "Philosophy/Philosophy.md",
+    "Human/Medial pre-optic Area.md",
+    "Mastery/The 4 things it takes to be an expert.md",
+    "Philosophy/Inference.md",
+    "Philosophy/Deduction.md",
+    "Philosophy/Premise.md",
+    "Philosophy/Confirmation Bias.md",
+    "Philosophy/Cogent.md",
+    "Philosophy/Aristotle.md",
+    "Software/React",
     "Human/ADHD",
     "Assets/Pasted image 20230617123631.png",
     "Assets/Pasted image 20230617123623.png",
