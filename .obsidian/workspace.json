@@ -171,8 +171,7 @@
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
       "command-palette:Open command palette": true,
-      "random-note:Open random note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "random-note:Open random note": false
     }
   },
   "active": "8db108df98f1ae57",
