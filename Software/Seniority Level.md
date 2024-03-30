@@ -5,17 +5,22 @@
 The terms "Junior" and "Senior" originate from Latin
 Junior means younger and Senior means older.
 
+## Why doesj
+
 ## Skills needed
 
-It's needed to have depth and breadth of experience in:
+It's needed to have depth and breadth of experience in, it takes time because the skill set is huge, for instance here is the list of common area that we need to be aware
 
-* Understanding business needs
 * Understanding full development life-cycle
+* Understanding business needs
 * Technical mastery
 * Soft Skills
-* Collaboration
+	* Collaboration
+	
 
 ## Ecosystem
+
+Knowing the ecosystem is something
 
 * Product team
 * Engineering team
