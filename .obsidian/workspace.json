@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quotes/Avoidance.md",
+                "file": "Software/Seniority Level.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#logic",
+                "query": "tag:#juonior",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,11 +74,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dc8d7b1fd8112bda",
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quotes/Avoidance.md",
+                "file": "Software/Seniority Level.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quotes/Avoidance.md",
+                "file": "Software/Seniority Level.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quotes/Avoidance.md"
+                "file": "Software/Seniority Level.md"
               }
             }
           },
@@ -168,6 +170,18 @@
   },
   "active": "95fb7ac187e50447",
   "lastOpenFiles": [
+    "Software/Function Intersection.md",
+    "Software/Seniority Level.md",
+    "Software/Error Message.md",
+    "Software/Critical Rendering Path.md",
+    "Software/Collaborative Requirements Gathering.md",
+    "Software/Cargo Cult Programming.md",
+    "Software/Bash Arrays.md",
+    "Software/ZSH Completion.md",
+    "Software/Why Pull Requests Are A Bad IDEA.md",
+    "Software/UUID in Linux.md",
+    "Software/Trunk Base Development.md",
+    "Quotes/Avoidance.md",
     "Quotes/Fall to the level of your system.md",
     "Quotes/Limit of Language.md",
     "Quotes/Maturity.md",
@@ -179,21 +193,9 @@
     "Team/Bus factor.md",
     "Team/1-to-1 Questions.md",
     "Quotes/Top Quotes.md",
-    "Quotes/Avoidance.md",
     "Software/Testing Environments/Testing Environments.md",
     "Mastery/Deliberate Practice.md",
     "Vocab/Dopamine.md",
-    "Vocab/Tribe.md",
-    "Human/Locus Coeruleus.md",
-    "Philosophy/Philosophy.md",
-    "Human/Medial pre-optic Area.md",
-    "Mastery/The 4 things it takes to be an expert.md",
-    "Philosophy/Inference.md",
-    "Philosophy/Deduction.md",
-    "Philosophy/Premise.md",
-    "Philosophy/Confirmation Bias.md",
-    "Philosophy/Cogent.md",
-    "Philosophy/Aristotle.md",
     "Software/React",
     "Human/ADHD",
     "Assets/Pasted image 20230617123631.png",

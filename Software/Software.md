@@ -17,6 +17,7 @@
 - [[Primitve Obsession]]
 - **React**
 	- [[React.FC]]
+- [[Seniority Level]]
 - [[Software Enginnering]]
 - [[Sprint Demo]]
 - **[[Testing Environments]]**
