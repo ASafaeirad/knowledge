@@ -4,63 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5c42fb955c4a4a23",
+        "id": "e37a5856472e5bcc",
         "type": "tabs",
         "children": [
           {
-            "id": "95fb7ac187e50447",
+            "id": "3fc3bc153c91a5b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mastery/Tacit Knowledge.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35594fec5fa9ec07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maturity.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "742c169a368fa1f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mastery/Knowledge.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7c22e3359897386",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mastery/Explicit Knowledge.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maturity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maturity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Maturity.md"
-              }
+              "state": {}
             }
           },
           {
@@ -206,12 +157,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35594fec5fa9ec07",
+  "active": "3fc3bc153c91a5b8",
   "lastOpenFiles": [
-    "Mastery/Knowledge.md",
     "Mastery/Explicit Knowledge.md",
-    "Maturity.md",
+    "Mastery/Knowledge.md",
     "Mastery/Tacit Knowledge.md",
+    "Maturity.md",
+    "Philosophy/Ontology.md",
     "Mastery/Morning Routine.md",
     "Software/Seniority Level.md",
     "Software/Function Intersection.md",
@@ -233,7 +185,6 @@
     "Team/People Management Skills.md",
     "Team/Low Performer.md",
     "Team/How Great People Stay Working for You.md",
-    "Team/Bus factor.md",
     "Software/React",
     "Human/ADHD",
     "Assets/Pasted image 20230617123631.png",

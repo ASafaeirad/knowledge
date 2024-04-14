@@ -16,6 +16,7 @@
 - [[Logic Vocabulary]]
 - [[Logic]]
 - [[Nasionalism]]
+- [[Ontology]]
 - [[Philosophy of logic]]
 - [[Premise]]
 - [[Sound]]
