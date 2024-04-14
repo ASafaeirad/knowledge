@@ -11,8 +11,13 @@
             "id": "3fc3bc153c91a5b8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Human/Costly Signaling Theory.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Human/Costly Signaling Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Human/Costly Signaling Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Human/Costly Signaling Theory.md"
+              }
             }
           },
           {
@@ -159,6 +168,8 @@
   },
   "active": "3fc3bc153c91a5b8",
   "lastOpenFiles": [
+    "Human/Cortisol.md",
+    "Human/Costly Signaling Theory.md",
     "Mastery/Explicit Knowledge.md",
     "Mastery/Knowledge.md",
     "Mastery/Tacit Knowledge.md",
@@ -183,8 +194,6 @@
     "Quotes/Success.md",
     "Team/Red Light vs Green Light Thinking.md",
     "Team/People Management Skills.md",
-    "Team/Low Performer.md",
-    "Team/How Great People Stay Working for You.md",
     "Software/React",
     "Human/ADHD",
     "Assets/Pasted image 20230617123631.png",
