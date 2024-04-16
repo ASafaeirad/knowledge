@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e37a5856472e5bcc",
+        "id": "4357affff7420862",
         "type": "tabs",
         "children": [
           {
-            "id": "3fc3bc153c91a5b8",
+            "id": "319bbdb96e069465",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Human/Costly Signaling Theory.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Human/Costly Signaling Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Human/Costly Signaling Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Human/Costly Signaling Theory.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,10 +157,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3fc3bc153c91a5b8",
+  "active": "319bbdb96e069465",
   "lastOpenFiles": [
-    "Human/Cortisol.md",
     "Human/Costly Signaling Theory.md",
+    "Human/Escalation of commitment.md",
+    "Human/Sympathetic Nervous System.md",
+    "Human/Cortisol.md",
     "Mastery/Explicit Knowledge.md",
     "Mastery/Knowledge.md",
     "Mastery/Tacit Knowledge.md",
@@ -192,8 +185,6 @@
     "Quotes/Limit of Language.md",
     "Quotes/Maturity.md",
     "Quotes/Success.md",
-    "Team/Red Light vs Green Light Thinking.md",
-    "Team/People Management Skills.md",
     "Software/React",
     "Human/ADHD",
     "Assets/Pasted image 20230617123631.png",

@@ -9,6 +9,7 @@
 - [[Caffeine]]
 - [[Cortisol]]
 - [[Costly Signaling Theory]]
+- [[Escalation of commitment]]
 - [[Estrogen]]
 - [[Keratinocytes]]
 - [[Locus Coeruleus]]
