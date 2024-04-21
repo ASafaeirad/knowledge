@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#team-lead  ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.895530449669479,
+  "scale": 0.6963458113959528,
   "close": false
 }

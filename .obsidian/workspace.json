@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "4357affff7420862",
+        "id": "811e7ec355b4b879",
         "type": "tabs",
         "children": [
           {
-            "id": "319bbdb96e069465",
+            "id": "ea51702c271f43d3",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -157,8 +157,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "319bbdb96e069465",
+  "active": "ea51702c271f43d3",
   "lastOpenFiles": [
+    "Anti-Corruption Layer.md",
+    "Software/Software.md",
     "Human/Costly Signaling Theory.md",
     "Human/Escalation of commitment.md",
     "Human/Sympathetic Nervous System.md",
@@ -183,8 +185,6 @@
     "Quotes/Avoidance.md",
     "Quotes/Fall to the level of your system.md",
     "Quotes/Limit of Language.md",
-    "Quotes/Maturity.md",
-    "Quotes/Success.md",
     "Software/React",
     "Human/ADHD",
     "Assets/Pasted image 20230617123631.png",
