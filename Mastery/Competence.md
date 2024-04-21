@@ -29,7 +29,9 @@ The individual understands or knows how to do something. It may be broken down i
 The individual has had so much practice with a skill that it has become "second nature" and can be performed easily. As a result, the skill can be performed while executing another task. The individual may be able to teach it to others, depending upon how and when it was learned.
 
 
+![[Pasted image 20240421203459.png]]
 
 ## References
 [Wikipedia](https://en.wikipedia.org/wiki/Four_stages_of_competence)
+[Examples](https://helpfulprofessor.com/competence-examples/)
 [YouTube](https://www.youtube.com/shorts/ZUIGLIKihTQ)
