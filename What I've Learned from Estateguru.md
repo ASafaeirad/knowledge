@@ -10,8 +10,3 @@ As Steve Jobs once remarked, "It doesn't make sense to hire smart people and tel
 Another great thing I've learned from Estateguru is while we may transfer responsibility and accountability, we cannot force ownership. People accept it as an innate feeling. Our responsibility as leaders and teammates is to cultivate an environment in which team members feel empowered to take ownership.
 
 Holding someone accountable without establishing trust is like to putting gasoline into a coal box and not lighting it. Instead of boosting drive, it causes emotions of overload and abuse.
-
-In closing, I'd like to extend my heartfelt thanks to each one of you. Your contributions, support, and camaraderie have made this journey truly enriching.
-
-And I hope Estateguru will return to its former glory as a haven for Engineers.
-

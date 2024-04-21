@@ -1,1 +1,6 @@
-#todo #philosophy #people 
+---
+tags:
+  - "#todo"
+  - philosophy
+  - people
+---

@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "811e7ec355b4b879",
+        "id": "19acaeac6942e3a3",
         "type": "tabs",
         "children": [
           {
-            "id": "ea51702c271f43d3",
+            "id": "116becfcb0b5b379",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mastery/Competence.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mastery/Competence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mastery/Competence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mastery/Competence.md"
+              }
             }
           },
           {
@@ -136,9 +145,31 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "1a393edcd106b6d4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "e7a8b1b050535a63",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Mastery/Competence.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -157,46 +188,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ea51702c271f43d3",
+  "active": "116becfcb0b5b379",
   "lastOpenFiles": [
-    "Anti-Corruption Layer.md",
-    "Software/Software.md",
-    "Human/Costly Signaling Theory.md",
-    "Human/Escalation of commitment.md",
-    "Human/Sympathetic Nervous System.md",
-    "Human/Cortisol.md",
-    "Mastery/Explicit Knowledge.md",
-    "Mastery/Knowledge.md",
-    "Mastery/Tacit Knowledge.md",
-    "Maturity.md",
-    "Philosophy/Ontology.md",
-    "Mastery/Morning Routine.md",
-    "Software/Seniority Level.md",
-    "Software/Function Intersection.md",
-    "Software/Error Message.md",
-    "Software/Critical Rendering Path.md",
-    "Software/Collaborative Requirements Gathering.md",
-    "Software/Cargo Cult Programming.md",
-    "Software/Bash Arrays.md",
-    "Software/ZSH Completion.md",
-    "Software/Why Pull Requests Are A Bad IDEA.md",
-    "Software/UUID in Linux.md",
-    "Software/Trunk Base Development.md",
-    "Quotes/Avoidance.md",
-    "Quotes/Fall to the level of your system.md",
-    "Quotes/Limit of Language.md",
-    "Software/React",
-    "Human/ADHD",
-    "Assets/Pasted image 20230617123631.png",
-    "Assets/Pasted image 20230617123623.png",
-    "Assets/Pasted image 20230521090603.png",
-    "Assets/Pasted image 20230610221451.png",
-    "Assets/Pasted image 20230524100354.png",
+    "Marcus Aurelius.md",
+    "Mastery/4 Stage of Learning.md",
+    "How to Get Ahead of 99% of People.md",
+    "Critical Thinking.md",
+    "Assets/Adenosine.png",
+    "Assets/Pasted image 20230517111923.png",
+    "Assets/Pasted image 20230517112000.png",
+    "Assets/Pasted image 20230517112142.png",
     "Assets/Pasted image 20230520185009.png",
     "Assets/Pasted image 20230521085459.png",
-    "Assets/Pasted image 20230517112142.png",
-    "Assets/Pasted image 20230517112000.png",
-    "Assets/Pasted image 20230517111923.png",
+    "Assets/Pasted image 20230521090603.png",
+    "Assets/Pasted image 20230524100354.png",
+    "Assets/Pasted image 20230610221451.png",
+    "Assets/Pasted image 20230617123623.png",
+    "Mastery/Competence.md",
+    "Mastery/Infinite Player.md",
+    "Mastery/The 4 things it takes to be an expert.md",
+    "Mastery/Tacit Knowledge.md",
+    "System Thinking/System Thinking.md",
+    "System Thinking/Plan vs Action.md",
+    "System Thinking/PARA Method.md",
+    "Mastery/Maturity.md",
+    "Mastery/Mastery.md",
+    "Mastery/Deliberate Practice.md",
+    "Mastery/Habit & Routines.md",
+    "Mastery/Process of experimentation.md",
+    "Mastery/10,000 Hours.md",
+    "Mastery/Explicit Knowledge.md",
+    "Philosophy/ابتذال.md",
+    "Philosophy/Aristotle.md",
+    "Philosophy/Cogent.md",
+    "Mastery/Growth is not linear.md",
+    "Mastery/How to become more Interesting.md",
+    "Mastery/How to be heard while stay quite.md",
+    "Philosophy/Confirmation Bias.md",
+    "Terms.md",
+    "Software/React",
+    "Human/ADHD",
     "Language"
   ]
 }
