@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "555ef0df7f436b4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skill.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5efbc947492252c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mastery/Competence.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,8 +215,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "116becfcb0b5b379",
+  "active": "5efbc947492252c4",
   "lastOpenFiles": [
+    "Skill.md",
+    "Mastery/Competence.md",
+    "Emotional Intelligence Quotient.md",
     "Marcus Aurelius.md",
     "Mastery/4 Stage of Learning.md",
     "How to Get Ahead of 99% of People.md",
@@ -204,7 +234,6 @@
     "Assets/Pasted image 20230524100354.png",
     "Assets/Pasted image 20230610221451.png",
     "Assets/Pasted image 20230617123623.png",
-    "Mastery/Competence.md",
     "Mastery/Infinite Player.md",
     "Mastery/The 4 things it takes to be an expert.md",
     "Mastery/Tacit Knowledge.md",
@@ -224,8 +253,6 @@
     "Mastery/Growth is not linear.md",
     "Mastery/How to become more Interesting.md",
     "Mastery/How to be heard while stay quite.md",
-    "Philosophy/Confirmation Bias.md",
-    "Terms.md",
     "Software/React",
     "Human/ADHD",
     "Language"

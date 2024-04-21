@@ -3,6 +3,12 @@ tags:
   - todo
   - mastery
 ---
+Competence is the set of demonstrable characteristics and [[Skill|Skills]] that enable and improve the efficiency or performance of a job. Competency is a series of knowledge, abilities, skills, experiences and behaviors, which leads to effective performance in an individual's activities.
+
+> Competency is measurable and can be developed through training.
+
+Some scholars see "competence" as a combination of practical & theoretical knowledge, cognitive skills, behavior, and values used to improve performance
+
 ![[Competence Hierarchy.png]]
 
 ## Unconscious incompetence (Ignorance)
