@@ -7,7 +7,8 @@ Competence is the set of demonstrable characteristics and [[Skill|Skills]] that 
 
 > Competency is measurable and can be developed through training.
 
-Some scholars see "competence" as a combination of practical & theoretical knowledge, cognitive skills, behavior, and values used to improve performance
+Some scholars see "competence" as a combination of practical & theoretical knowledge, cognitive skills, behavior, and values used to improve performance.
+
 
 ![[Competence Hierarchy.png]]
 
@@ -21,7 +22,7 @@ Though the individual does not understand or know how to do something, they reco
 
 ## Conscious competence (Learning)
 
-The individual understands or knows how to do something. It may be broken down into steps, and there is heavy conscious involvement in executing the new skill. However, demonstrating the skill or knowledge requires concentration, and if it is broken, they lapse into incompetence.[1]
+The individual understands or knows how to do something. It may be broken down into steps, and there is heavy conscious involvement in executing the new skill. However, demonstrating the skill or knowledge requires concentration, and if it is broken, they lapse into incompetence.
 
 ## Unconscious competence (Mastery)
 
