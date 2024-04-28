@@ -33,5 +33,6 @@ The individual has had so much practice with a skill that it has become "second 
 
 ## References
 [Wikipedia](https://en.wikipedia.org/wiki/Four_stages_of_competence)
+[Wikipedia](https://en.wikipedia.org/wiki/Competence_(human_resources))
 [Examples](https://helpfulprofessor.com/competence-examples/)
 [YouTube](https://www.youtube.com/shorts/ZUIGLIKihTQ)
