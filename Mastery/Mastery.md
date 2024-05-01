@@ -3,6 +3,7 @@
 - [[1000 Fans]]
 - [[Active Recall Space Repition]]
 - [[Competence]]
+- [[Competency]]
 - [[Deliberate Practice]]
 - [[Explicit Knowledge]]
 - [[Growth is not linear]]
