@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de698796c340cfb0",
+            "id": "a46fb85c329a40fd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Roadmap.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Roadmap.md"
+              }
             }
           }
         ],
@@ -160,8 +169,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "de698796c340cfb0",
+  "active": "a46fb85c329a40fd",
   "lastOpenFiles": [
+    "Notes.md",
+    "Roadmap.md",
     "Mastery/Competence.md",
     "Skill.md",
     "Critical Thinking.md",
@@ -187,8 +198,6 @@
     "Mastery/How to become more Interesting.md",
     "Mastery/How To Get People To Open Up.md",
     "Mastery/Infinite Player.md",
-    "Mastery/Mastery.md",
-    "Mastery/Maturity.md",
     "Assets/Hierarchy of Competence.png",
     "Assets/Adenosine.png",
     "Assets/Pasted image 20230517111923.png",
