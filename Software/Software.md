@@ -1,6 +1,7 @@
 %% Begin Waypoint %%
 - [[AI Environments]]
 - [[Anti-Corruption Layer]]
+- [[Auto-tracking synchronization engine]]
 - [[Bash Arrays]]
 - [[Cargo Cult Programming]]
 - [[Collaborative Requirements Gathering]]
@@ -12,9 +13,11 @@
 - [[GDPR]]
 - [[Github Action Debug]]
 - [[Heisenbug]]
+- [[IDN homograph attack]]
 - [[Keyboard Layout]]
 - [[OOP Jungle]]
 - [[Open source problems]]
+- [[Organization]]
 - [[Primitve Obsession]]
 - **React**
 	- [[React.FC]]

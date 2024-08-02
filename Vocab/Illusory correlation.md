@@ -1,0 +1,1 @@
+In psychology, illusory correlation is the phenomenon of perceiving a relationship between variables (typically people, events, or behaviors) even when no such relationship exists. A false association may be formed because rare or novel occurrences are more salient and therefore tend to capture one's attention. 

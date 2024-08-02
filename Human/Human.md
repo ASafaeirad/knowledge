@@ -7,7 +7,6 @@
 	- [[Time Bilindness]]
 - [[Adrenals]]
 - [[Caffeine]]
-- [[Cambrian explosion]]
 - [[Cortisol]]
 - [[Costly Signaling Theory]]
 - [[Escalation of commitment]]
@@ -17,8 +16,11 @@
 - [[Matthew effect]]
 - [[Medial pre-optic Area]]
 - [[Parasympathetic Nervous System]]
+- [[Perfectionism]]
+- [[Representativeness Hueristics]]
 - [[Sympathetic Nervous System]]
 - [[Testosterone]]
+- [[The prisoner's dilemma]]
 
 %% End Waypoint %%
 

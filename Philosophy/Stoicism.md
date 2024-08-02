@@ -35,7 +35,7 @@ We shouldn't act against the natural course of thing but embrace it.
 Emotion is a human characteristic that can be trumped by reason.
 It's not the emotion that decides our mood but the position we take towards the emotion.
 
-## Amor Fati
+## [[Amor Fati]]
 It means loving your fate.
 
 > My formula for human greatness is Amor Fat: That one wants nothing to be different, not in the future, not in the past, not for all eternity.
@@ -51,7 +51,7 @@ Amor Fati put you in a position which you simply can't go wrong and when things 
 
 Embrace your destiny, no matter what, and you'll have nothing to fear.
 
-## Memento mori (Remember that you will die)
+## [[Memento Mori]]
 Life is temporary, don't waste time on trivial things.
 
 ## The View From Above
