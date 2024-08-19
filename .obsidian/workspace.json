@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "850fd6109055d736",
+        "id": "4f0cefc6c15e9c1e",
         "type": "tabs",
         "children": [
           {
-            "id": "6733a719e4589b77",
+            "id": "37bdd7809cb77571",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c075490761b19698",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Memento Mori",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,25 +122,7 @@
             }
           },
           {
-            "id": "756973f6c03f06ad",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
-            }
-          },
-          {
-            "id": "133269cf992fa560",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "853ead506020ac45",
+            "id": "98f2211b68e6c96a",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -173,21 +134,19 @@
             }
           },
           {
-            "id": "b9a3065972ecba19",
+            "id": "e104c07e02f7e8e0",
             "type": "leaf",
             "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "type": "outline",
+              "state": {}
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 388.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,47 +160,48 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c075490761b19698",
+  "active": "37bdd7809cb77571",
   "lastOpenFiles": [
-    "Human/Cambrian explosion.md",
+    "Quotes/Top Quotes.md",
     "conflict-files-obsidian-git.md",
-    "Memory.md",
-    "Assets/Pasted image 20240421203459 1.png",
-    "How to Get Ahead of 99% of People.md",
-    "Roadmap.md",
-    "Philosophy/Testimony.md",
-    "Organization Chart.md",
-    "Notes.md",
-    "Philosophy/Epistemology.md",
-    "Philosophy/Introspection.md",
-    "Philosophy/Intuition.md",
-    "Philosophy/Perception.md",
-    "Philosophy/Reasoning.md",
-    "Assets/Pasted image 20240421203459.png",
-    "Mastery/Competency.md",
-    "Quotes/How Great People Stay Working for You?.md",
-    "What I've Learned from Estateguru.md",
-    "The prisoner's dilemma.md",
-    "Terms.md",
-    "Skill.md",
-    "Resume Types.md",
-    "Perfectionism.md",
-    "Marcus Aurelius.md",
-    "Emotional Intelligence Quotient.md",
     "Critical Thinking.md",
-    "Philosophy/Stoicism.md",
+    "Vocab/Negativity bias.md",
+    "Vocab/Illusory correlation.md",
+    "Vocab/Critical Thinking.md",
+    "Vocab/Brown noise.md",
+    "Software/Organization.md",
+    "Software/IDN homograph attack.md",
+    "Software/Auto-tracking synchronization engine.md",
+    "Science/Cambrian explosion.md",
+    "Science/Browninan Motion.md",
+    "Science",
+    "Quotes/Plan vs Act.md",
+    "Quotes/Marcus Aurelius.md",
+    "Quotes/Insulting.md",
+    "Quotes/I Can Meet any Schedule.md",
+    "Quotes/How Great People Stay Working for You?.md",
+    "Philosophy/Testimony.md",
+    "Philosophy/Reasoning.md",
+    "Philosophy/Prohairesis.md",
+    "Philosophy/Perception.md",
+    "Philosophy/Memento Mori.md",
+    "Philosophy/Intuition.md",
+    "Philosophy/Introspection.md",
+    "Philosophy/Epistemology.md",
+    "Philosophy/Amor Fati.md",
     "People",
     "Assets/Pasted image 20240424162057.png",
-    "Science",
     "Assets/Pasted image 20240424125029 1.png",
-    "Assets/Competence Hierarchy.png",
+    "Assets/Pasted image 20240421203459 1.png",
+    "Assets/Pasted image 20240421203459.png",
     "Assets/Hierarchy of Competence.png",
+    "Assets/Adenosine.png",
+    "Assets/Pasted image 20230517111923.png",
+    "Assets/Pasted image 20230517112000.png",
+    "Assets/Pasted image 20230517112142.png",
+    "Assets/Pasted image 20230520185009.png",
     "Software/React",
     "Human/ADHD",
-    "Assets/Pasted image 20230617123631.png",
-    "Assets/Pasted image 20230617123623.png",
-    "Assets/Pasted image 20230521090603.png",
-    "Assets/Pasted image 20230610221451.png",
     "Language"
   ]
 }
