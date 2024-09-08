@@ -43,4 +43,6 @@
 > Simplicity is the art of maximizing the work not done
 > - Agile
 
-It takes real character to understand and forgive
+> It takes real character to understand and forgive
+
+> We can not solve our problems with the same level of thinking that created them

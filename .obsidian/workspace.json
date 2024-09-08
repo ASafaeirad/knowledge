@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4f0cefc6c15e9c1e",
+        "id": "eee985c2dc02b550",
         "type": "tabs",
         "children": [
           {
-            "id": "37bdd7809cb77571",
+            "id": "f7f1c69ea4512dd4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -69,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,7 +160,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "608abe3705630b51",
+  "active": "f7f1c69ea4512dd4",
   "lastOpenFiles": [
     "Quotes/Top Quotes.md",
     "conflict-files-obsidian-git.md",
