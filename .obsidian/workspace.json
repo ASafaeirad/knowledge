@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
+        "id": "9d69b547726ef4c8",
         "id": "eee985c2dc02b550",
         "type": "tabs",
         "children": [
           {
-            "id": "f7f1c69ea4512dd4",
+            "id": "b0f5c37fff375d6d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
         ]
@@ -35,7 +40,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -44,13 +51,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#planning",
+                "query": "software",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +67,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -66,7 +77,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -96,7 +109,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -107,7 +122,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -118,11 +135,33 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "98f2211b68e6c96a",
+            "id": "756973f6c03f06ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "133269cf992fa560",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "853ead506020ac45",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -130,23 +169,26 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
-            "id": "e104c07e02f7e8e0",
+            "id": "b9a3065972ecba19",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {}
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,48 +202,48 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f7f1c69ea4512dd4",
+  "active": "b0f5c37fff375d6d",
   "lastOpenFiles": [
-    "Quotes/Top Quotes.md",
     "conflict-files-obsidian-git.md",
-    "Critical Thinking.md",
-    "Vocab/Negativity bias.md",
-    "Vocab/Illusory correlation.md",
-    "Vocab/Critical Thinking.md",
-    "Vocab/Brown noise.md",
+    "Software/AI Environments.md",
+    "Software/ZSH Completion.md",
+    "Software/UUID in Linux.md",
+    "Software/Trunk Base Development.md",
+    "Software/Testing Environments/Testing Environments.md",
+    "Team/Tech Lead.md",
+    "Software/Sprint Demo.md",
+    "Software/Software Enginnering.md",
+    "Software/Software.md",
+    "Software/Seniority Level.md",
     "Software/Organization.md",
+    "Software/Open source problems.md",
+    "Software/Keyboard Layout.md",
+    "Software/OOP Jungle.md",
     "Software/IDN homograph attack.md",
+    "Software/Heisenbug.md",
+    "Software/Github Action Debug.md",
+    "Software/GDPR.md",
+    "Software/Function Intersection.md",
+    "Software/FP in TS/FP in TS.md",
+    "Software/Error Message.md",
+    "Software/Critical Rendering Path.md",
+    "Software/Bash Arrays.md",
     "Software/Auto-tracking synchronization engine.md",
-    "Science/Cambrian explosion.md",
-    "Science/Browninan Motion.md",
-    "Science",
-    "Quotes/Plan vs Act.md",
-    "Quotes/Marcus Aurelius.md",
-    "Quotes/Insulting.md",
-    "Quotes/I Can Meet any Schedule.md",
-    "Quotes/How Great People Stay Working for You?.md",
-    "Philosophy/Testimony.md",
-    "Philosophy/Reasoning.md",
-    "Philosophy/Prohairesis.md",
-    "Philosophy/Perception.md",
-    "Philosophy/Memento Mori.md",
-    "Philosophy/Intuition.md",
-    "Philosophy/Introspection.md",
-    "Philosophy/Epistemology.md",
-    "Philosophy/Amor Fati.md",
-    "People",
-    "Assets/Pasted image 20240424162057.png",
-    "Assets/Pasted image 20240424125029 1.png",
+    "Software/Anti-Corruption Layer.md",
     "Assets/Pasted image 20240421203459 1.png",
     "Assets/Pasted image 20240421203459.png",
+    "People",
+    "Assets/Pasted image 20240424162057.png",
+    "Science",
+    "Assets/Pasted image 20240424125029 1.png",
+    "Assets/Competence Hierarchy.png",
     "Assets/Hierarchy of Competence.png",
-    "Assets/Adenosine.png",
-    "Assets/Pasted image 20230517111923.png",
-    "Assets/Pasted image 20230517112000.png",
-    "Assets/Pasted image 20230517112142.png",
-    "Assets/Pasted image 20230520185009.png",
     "Software/React",
     "Human/ADHD",
+    "Assets/Pasted image 20230617123631.png",
+    "Assets/Pasted image 20230617123623.png",
+    "Assets/Pasted image 20230521090603.png",
+    "Assets/Pasted image 20230610221451.png",
     "Language"
   ]
 }

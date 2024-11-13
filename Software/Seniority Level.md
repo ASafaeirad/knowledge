@@ -5,7 +5,7 @@
 The terms "Junior" and "Senior" originate from Latin
 Junior means younger and Senior means older.
 
-## Why doesj
+## Why does
 
 ## Skills needed
 

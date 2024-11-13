@@ -7,6 +7,7 @@
 - [[Deliberate Practice]]
 - [[Emotional Intelligence Quotient]]
 - [[Explicit Knowledge]]
+- [[Goodhart's law]]
 - [[Growth is not linear]]
 - [[Habit & Routines]]
 - [[How to be heard while stay quite]]
