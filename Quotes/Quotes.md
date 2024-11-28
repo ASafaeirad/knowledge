@@ -11,5 +11,6 @@
 - [[Plan vs Act]]
 - [[Success]]
 - [[Top Quotes]]
+- [[Two Pizza Team]]
 
 %% End Waypoint %%
