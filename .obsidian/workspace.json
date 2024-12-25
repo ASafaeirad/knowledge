@@ -13,16 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Team/3 Modes Of Thinking.md",
+                "file": "Human/Illusion of explanatory depth.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 Modes Of Thinking"
+              "title": "Illusion of explanatory depth"
+            }
+          },
+          {
+            "id": "afa5574bc8b1aaf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human/Illusion of explanatory depth.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Illusion of explanatory depth"
+            }
+          },
+          {
+            "id": "2b205102eb5f717d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human/Intellectual humility.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intellectual humility"
+            }
+          },
+          {
+            "id": "b67036580266b81f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human/Curse of Knowledge.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Curse of Knowledge"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -169,13 +215,25 @@
               "icon": "lucide-list",
               "title": "Outline of Two Pizza Team"
             }
+          },
+          {
+            "id": "164f1b498fc421ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Human/Curse of Knowledge.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Curse of Knowledge"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 269.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,35 +247,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "971c6b6d196cc566",
+  "active": "b67036580266b81f",
   "lastOpenFiles": [
-    "Team/3 Modes Of Thinking.md",
+    "Human/Intellectual humility.md",
+    "Human/Curse of Knowledge.md",
+    "Human/Illusion of explanatory depth.md",
+    "Human/Spotlight Effect.md",
+    "Human/Fundamental attribution error.md",
+    "Human/Dunning–Kruger effect.md",
+    "Human/Representativeness heuristic.md",
+    "Human/Perfectionism.md",
+    "Human/Parasympathetic Nervous System.md",
+    "Human/Medial pre-optic Area.md",
+    "Human/Human.md",
+    "Human/Locus Coeruleus.md",
+    "Human/Escalation of commitment.md",
+    "Human/Estrogen.md",
+    "Human/The Prisoner's Dilemma.md",
+    "Human/Testosterone.md",
+    "Pasted image 20241225153932.png",
+    "Vocab/Cognitive.md",
+    "Vocab/Circadian dead zone.md",
+    "Vocab/Epinephrine.md",
+    "Vocab/Illusory correlation.md",
+    "Vocab/Negativity bias.md",
+    "Vocab/Neuromodulator.md",
     "conflict-files-obsidian-git.md",
+    "Team/3 Modes Of Thinking.md",
     "System Thinking/System Thinking.md",
     "Quotes/Two Pizza Team.md",
-    "Mastery/Goodhart's law.md",
-    "Quotes/Top Quotes.md",
-    "Critical Thinking.md",
-    "Vocab/Negativity bias.md",
-    "Vocab/Illusory correlation.md",
-    "Vocab/Critical Thinking.md",
-    "Vocab/Brown noise.md",
-    "Software/Organization.md",
-    "Software/IDN homograph attack.md",
-    "Software/Auto-tracking synchronization engine.md",
-    "Science/Cambrian explosion.md",
-    "Science/Browninan Motion.md",
     "Science",
-    "Quotes/Plan vs Act.md",
-    "Quotes/Marcus Aurelius.md",
-    "Quotes/Insulting.md",
-    "Quotes/I Can Meet any Schedule.md",
-    "Quotes/How Great People Stay Working for You?.md",
-    "Philosophy/Testimony.md",
-    "Philosophy/Reasoning.md",
-    "Philosophy/Prohairesis.md",
-    "Philosophy/Perception.md",
-    "Philosophy/Memento Mori.md",
     "People",
     "Assets/Pasted image 20240424162057.png",
     "Assets/Pasted image 20240424125029 1.png",
@@ -228,7 +287,6 @@
     "Assets/Pasted image 20230517111923.png",
     "Assets/Pasted image 20230517112000.png",
     "Assets/Pasted image 20230517112142.png",
-    "Assets/Pasted image 20230520185009.png",
     "Software/React",
     "Human/ADHD",
     "Language"
