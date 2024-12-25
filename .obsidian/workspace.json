@@ -23,22 +23,7 @@
             }
           },
           {
-            "id": "afa5574bc8b1aaf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Human/Illusion of explanatory depth.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Illusion of explanatory depth"
-            }
-          },
-          {
-            "id": "2b205102eb5f717d",
+            "id": "1f3f9500206c8530",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -51,24 +36,9 @@
               "icon": "lucide-file",
               "title": "Intellectual humility"
             }
-          },
-          {
-            "id": "b67036580266b81f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Human/Curse of Knowledge.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Curse of Knowledge"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#planning",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -222,10 +192,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Human/Curse of Knowledge.md"
+                "file": "Human/Intellectual humility.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Curse of Knowledge"
+              "title": "File properties for Intellectual humility"
             }
           }
         ],
@@ -247,11 +217,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b67036580266b81f",
+  "active": "1f3f9500206c8530",
   "lastOpenFiles": [
-    "Human/Intellectual humility.md",
-    "Human/Curse of Knowledge.md",
     "Human/Illusion of explanatory depth.md",
+    "Human/Intellectual humility.md",
+    "Human/Costly Signaling Theory.md",
+    "Human/Cortisol.md",
+    "Human/Caffeine.md",
+    "Human/Adrenals.md",
+    "Human/Adenosine.md",
+    "Human/Curse of Knowledge.md",
     "Human/Spotlight Effect.md",
     "Human/Fundamental attribution error.md",
     "Human/Dunning–Kruger effect.md",
@@ -271,11 +246,6 @@
     "Vocab/Epinephrine.md",
     "Vocab/Illusory correlation.md",
     "Vocab/Negativity bias.md",
-    "Vocab/Neuromodulator.md",
-    "conflict-files-obsidian-git.md",
-    "Team/3 Modes Of Thinking.md",
-    "System Thinking/System Thinking.md",
-    "Quotes/Two Pizza Team.md",
     "Science",
     "People",
     "Assets/Pasted image 20240424162057.png",
