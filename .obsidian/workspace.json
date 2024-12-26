@@ -4,37 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "eee985c2dc02b550",
+        "id": "9d69b547726ef4c8",
         "type": "tabs",
         "children": [
           {
-            "id": "f7f1c69ea4512dd4",
+            "id": "b0f5c37fff375d6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human/Illusion of explanatory depth.md",
+                "file": "Quotes/Top Quotes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Illusion of explanatory depth"
+              "title": "Top Quotes"
             }
           },
           {
-            "id": "1f3f9500206c8530",
+            "id": "2a8360aa826ce911",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human/Intellectual humility.md",
+                "file": "How to Get Ahead of 99% of People.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intellectual humility"
+              "title": "How to Get Ahead of 99% of People"
             }
           }
         ],
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "software",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quotes/Two Pizza Team.md",
+                "file": "How to Get Ahead of 99% of People.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Two Pizza Team"
+              "title": "Backlinks for How to Get Ahead of 99% of People"
             }
           },
           {
@@ -139,12 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quotes/Two Pizza Team.md",
+                "file": "Quotes/Top Quotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Two Pizza Team"
+              "title": "Outgoing links from Top Quotes"
             }
           },
           {
@@ -161,7 +161,29 @@
             }
           },
           {
-            "id": "98f2211b68e6c96a",
+            "id": "756973f6c03f06ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Quotes/Top Quotes.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Top Quotes"
+            }
+          },
+          {
+            "id": "133269cf992fa560",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "853ead506020ac45",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -175,35 +197,22 @@
             }
           },
           {
-            "id": "e104c07e02f7e8e0",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Quotes/Two Pizza Team.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Two Pizza Team"
-            }
-          },
-          {
-            "id": "164f1b498fc421ee",
+            "id": "b9a3065972ecba19",
             "type": "leaf",
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Human/Intellectual humility.md"
+                "file": "Quotes/Top Quotes.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Intellectual humility"
+              "title": "File properties for Top Quotes"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,48 +226,48 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1f3f9500206c8530",
+  "active": "2a8360aa826ce911",
   "lastOpenFiles": [
-    "Human/Illusion of explanatory depth.md",
-    "Human/Intellectual humility.md",
-    "Human/Costly Signaling Theory.md",
-    "Human/Cortisol.md",
-    "Human/Caffeine.md",
-    "Human/Adrenals.md",
-    "Human/Adenosine.md",
-    "Human/Curse of Knowledge.md",
+    "Vocab/Cognitive.md",
+    "Quotes/Two Pizza Team.md",
+    "Human/The Prisoner's Dilemma.md",
     "Human/Spotlight Effect.md",
+    "Human/Representativeness heuristic.md",
+    "Human/Intellectual humility.md",
+    "Human/Illusion of explanatory depth.md",
     "Human/Fundamental attribution error.md",
     "Human/Dunning–Kruger effect.md",
-    "Human/Representativeness heuristic.md",
-    "Human/Perfectionism.md",
-    "Human/Parasympathetic Nervous System.md",
-    "Human/Medial pre-optic Area.md",
-    "Human/Human.md",
-    "Human/Locus Coeruleus.md",
-    "Human/Escalation of commitment.md",
-    "Human/Estrogen.md",
-    "Human/The Prisoner's Dilemma.md",
-    "Human/Testosterone.md",
-    "Pasted image 20241225153932.png",
-    "Vocab/Cognitive.md",
-    "Vocab/Circadian dead zone.md",
-    "Vocab/Epinephrine.md",
-    "Vocab/Illusory correlation.md",
-    "Vocab/Negativity bias.md",
-    "Science",
-    "People",
-    "Assets/Pasted image 20240424162057.png",
-    "Assets/Pasted image 20240424125029 1.png",
+    "Human/Curse of Knowledge.md",
+    "Quotes/Success.md",
+    "Quotes/Quotes.md",
+    "Quotes/Plan vs Act.md",
+    "Quotes/Maturity.md",
+    "Quotes/Marcus Aurelius.md",
+    "Quotes/Limit of Language.md",
+    "Quotes/Insulting.md",
+    "Quotes/Game vs Work.md",
+    "Quotes/Fall to the level of your system.md",
+    "Software/ZSH Completion.md",
+    "conflict-files-obsidian-git.md",
+    "Software/AI Environments.md",
+    "Software/UUID in Linux.md",
+    "Software/Trunk Base Development.md",
+    "Software/Testing Environments/Testing Environments.md",
+    "Team/Tech Lead.md",
     "Assets/Pasted image 20240421203459 1.png",
     "Assets/Pasted image 20240421203459.png",
+    "People",
+    "Assets/Pasted image 20240424162057.png",
+    "Science",
+    "Assets/Pasted image 20240424125029 1.png",
+    "Assets/Competence Hierarchy.png",
     "Assets/Hierarchy of Competence.png",
-    "Assets/Adenosine.png",
-    "Assets/Pasted image 20230517111923.png",
-    "Assets/Pasted image 20230517112000.png",
-    "Assets/Pasted image 20230517112142.png",
     "Software/React",
     "Human/ADHD",
+    "Assets/Pasted image 20230617123631.png",
+    "Assets/Pasted image 20230617123623.png",
+    "Assets/Pasted image 20230521090603.png",
+    "Assets/Pasted image 20230610221451.png",
     "Language"
   ]
 }
