@@ -20,6 +20,7 @@
 - [[Locus Coeruleus]]
 - [[Matthew effect]]
 - [[Medial pre-optic Area]]
+- [[Menu effect]]
 - [[Parasympathetic Nervous System]]
 - [[Perfectionism]]
 - [[Representativeness heuristic]]

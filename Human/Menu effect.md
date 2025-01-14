@@ -1,0 +1,2 @@
+The menu effect is a behavioral concept in decision-making and consumer psychology where the way options (or "menu items") are presented influences the choices people make. This effect emphasizes that the structure, order, or context of options on a "menu" can impact how individuals perceive and evaluate them, often leading to decisions that may not align with their original preferences or needs.
+
