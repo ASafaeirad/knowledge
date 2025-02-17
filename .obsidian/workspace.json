@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human/Illusion of explanatory depth.md",
+                "file": "Mastery/How To Get People To Open Up.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Illusion of explanatory depth"
+              "title": "How To Get People To Open Up"
             }
           }
         ]
@@ -186,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Human/Illusion of explanatory depth.md"
+                "file": "Mastery/How To Get People To Open Up.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Illusion of explanatory depth"
+              "title": "File properties for How To Get People To Open Up"
             }
           }
         ],
@@ -213,8 +213,8 @@
   },
   "active": "0955670ebbbd543c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Human/Illusion of explanatory depth.md",
+    "conflict-files-obsidian-git.md",
     "Human/Fundamental attribution error.md",
     "Human/Menu effect.md",
     "Team/Low Performer.md",
