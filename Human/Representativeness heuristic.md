@@ -1,6 +1,7 @@
 ---
 tags:
   - human
+  - cognitive_error
 aliases:
   - conjuction fallacy
   - linda problem
