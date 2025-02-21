@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "33ea341d6c27c4c3",
+        "id": "bf4479e7ad9386aa",
         "type": "tabs",
         "children": [
           {
-            "id": "0955670ebbbd543c",
+            "id": "3439b93bc6e2f4fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Human/Representativeness heuristic.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Representativeness heuristic"
+              "title": "New tab"
             }
           }
         ]
@@ -185,11 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Human/Representativeness heuristic.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Representativeness heuristic"
+              "title": "File properties"
             }
           }
         ],
@@ -211,34 +195,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0955670ebbbd543c",
+  "active": "3439b93bc6e2f4fa",
   "lastOpenFiles": [
-    "Mastery/How to become more Interesting.md",
-    "System Thinking/System Thinking.md",
-    "Human/Testosterone.md",
-    "Philosophy/Perception.md",
-    "Human/Locus Coeruleus.md",
-    "Human/Menu effect.md",
-    "Mastery/How To Get People To Open Up.md",
-    "Human/Illusion of explanatory depth.md",
-    "conflict-files-obsidian-git.md",
-    "Human/Fundamental attribution error.md",
-    "Team/Low Performer.md",
-    "Human/Costly Signaling Theory.md",
-    "Human/Cortisol.md",
-    "Human/Caffeine.md",
-    "Human/Adrenals.md",
-    "Human/Adenosine.md",
-    "Human/Representativeness heuristic.md",
-    "Human/Intellectual humility.md",
+    "Philosophy/Homonym.md",
+    "Vocab/Melanopsin ganglion cells.md",
+    "Vocab/Negativity bias.md",
+    "Vocab/Hypothalamus.md",
+    "Vocab/Graham's Hierarchy.md",
+    "Vocab/Epinephrine.md",
+    "Vocab/Empirical definition.md",
+    "Vocab/Dunbar number.md",
+    "Vocab/Depression.md",
+    "People/Robert Brown.md",
     "Human/Curse of Knowledge.md",
-    "Human/Spotlight Effect.md",
+    "Human/Cortisol.md",
+    "Human/Adenosine.md",
+    "Human/Adrenals.md",
+    "Human/Costly Signaling Theory.md",
     "Human/Dunning–Kruger effect.md",
-    "Human/Perfectionism.md",
-    "Human/Parasympathetic Nervous System.md",
-    "Human/Medial pre-optic Area.md",
+    "Human/Estrogen.md",
     "Human/Human.md",
-    "Human/Escalation of commitment.md",
+    "Human/Parasympathetic Nervous System.md",
+    "Vocab/Tribe.md",
+    "Vocab/Technique vs Strategy.md",
+    "Vocab/Slippery slope.md",
+    "Vocab/Peptide.md",
+    "Vocab/Neuromodulator.md",
+    "Human/ADHD/Executive Function.md",
+    "Human/Keratinocytes.md",
     "Pasted image 20241225153932.png",
     "Science",
     "People",
