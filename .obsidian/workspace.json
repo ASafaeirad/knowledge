@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "bf4479e7ad9386aa",
+        "id": "5816659d88445100",
         "type": "tabs",
         "children": [
           {
-            "id": "3439b93bc6e2f4fa",
+            "id": "4ca033aa1e0e4774",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Mastery/Emotional Intelligence Quotient.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Emotional Intelligence Quotient"
             }
           }
         ]
@@ -171,9 +185,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Mastery/Emotional Intelligence Quotient.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Emotional Intelligence Quotient"
             }
           }
         ],
@@ -195,7 +211,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3439b93bc6e2f4fa",
+  "active": "4ca033aa1e0e4774",
   "lastOpenFiles": [
     "Philosophy/Homonym.md",
     "Vocab/Melanopsin ganglion cells.md",
