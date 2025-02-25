@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mastery/Emotional Intelligence Quotient.md",
+                "file": "Philosophy/Homonym.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Emotional Intelligence Quotient"
+              "title": "Homonym"
             }
           }
         ]
@@ -186,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Mastery/Emotional Intelligence Quotient.md"
+                "file": "Philosophy/Homonym.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Emotional Intelligence Quotient"
+              "title": "File properties for Homonym"
             }
           }
         ],
@@ -213,6 +213,7 @@
   },
   "active": "4ca033aa1e0e4774",
   "lastOpenFiles": [
+    "Mastery/Emotional Intelligence Quotient.md",
     "Philosophy/Homonym.md",
     "Vocab/Melanopsin ganglion cells.md",
     "Vocab/Negativity bias.md",
@@ -238,7 +239,6 @@
     "Vocab/Peptide.md",
     "Vocab/Neuromodulator.md",
     "Human/ADHD/Executive Function.md",
-    "Human/Keratinocytes.md",
     "Pasted image 20241225153932.png",
     "Science",
     "People",
