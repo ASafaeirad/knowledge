@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Homonym.md",
+                "file": "Human/Intellectual humility.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homonym"
+              "title": "Intellectual humility"
             }
           }
         ]
@@ -186,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Philosophy/Homonym.md"
+                "file": "Human/Intellectual humility.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Homonym"
+              "title": "File properties for Intellectual humility"
             }
           }
         ],
@@ -205,16 +205,16 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": true,
       "daily-notes:Open today's daily note": true,
+      "random-note:Open random note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": true,
-      "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "4ca033aa1e0e4774",
   "lastOpenFiles": [
-    "Mastery/Emotional Intelligence Quotient.md",
     "Philosophy/Homonym.md",
+    "Mastery/Emotional Intelligence Quotient.md",
     "Vocab/Melanopsin ganglion cells.md",
     "Vocab/Negativity bias.md",
     "Vocab/Hypothalamus.md",
