@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human/Intellectual humility.md",
+                "file": "Software/Cargo Cult Programming.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Intellectual humility"
+              "title": "Cargo Cult Programming"
             }
           }
         ]
@@ -186,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Human/Intellectual humility.md"
+                "file": "Software/Cargo Cult Programming.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Intellectual humility"
+              "title": "File properties for Cargo Cult Programming"
             }
           }
         ],
@@ -213,6 +213,8 @@
   },
   "active": "4ca033aa1e0e4774",
   "lastOpenFiles": [
+    "Human/Medial pre-optic Area.md",
+    "Human/Intellectual humility.md",
     "Philosophy/Homonym.md",
     "Mastery/Emotional Intelligence Quotient.md",
     "Vocab/Melanopsin ganglion cells.md",
@@ -237,8 +239,6 @@
     "Vocab/Technique vs Strategy.md",
     "Vocab/Slippery slope.md",
     "Vocab/Peptide.md",
-    "Vocab/Neuromodulator.md",
-    "Human/ADHD/Executive Function.md",
     "Pasted image 20241225153932.png",
     "Science",
     "People",
