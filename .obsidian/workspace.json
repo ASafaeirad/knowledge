@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Cargo Cult Programming.md",
+                "file": "Human/Hindsight bias.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cargo Cult Programming"
+              "title": "Hindsight bias"
             }
           }
         ]
@@ -186,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Software/Cargo Cult Programming.md"
+                "file": "Human/Hindsight bias.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Cargo Cult Programming"
+              "title": "File properties for Hindsight bias"
             }
           }
         ],
@@ -213,6 +213,8 @@
   },
   "active": "4ca033aa1e0e4774",
   "lastOpenFiles": [
+    "Software/Cargo Cult Programming.md",
+    "Human/Hindsight bias.md",
     "Human/Medial pre-optic Area.md",
     "Human/Intellectual humility.md",
     "Philosophy/Homonym.md",
@@ -237,8 +239,6 @@
     "Human/Parasympathetic Nervous System.md",
     "Vocab/Tribe.md",
     "Vocab/Technique vs Strategy.md",
-    "Vocab/Slippery slope.md",
-    "Vocab/Peptide.md",
     "Pasted image 20241225153932.png",
     "Science",
     "People",

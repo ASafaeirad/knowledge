@@ -14,6 +14,7 @@
 - [[Escalation of commitment]]
 - [[Estrogen]]
 - [[Fundamental attribution error]]
+- [[Hindsight bias]]
 - [[Illusion of explanatory depth]]
 - [[Intellectual humility]]
 - [[Keratinocytes]]
