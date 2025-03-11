@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Hindsight bias"
             }
+          },
+          {
+            "id": "a60cd8aee400b065",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocab/Graham's Hierarchy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Graham's Hierarchy"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,10 +211,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Human/Hindsight bias.md"
+                "file": "Vocab/Graham's Hierarchy.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Hindsight bias"
+              "title": "File properties for Graham's Hierarchy"
             }
           }
         ],
@@ -211,7 +236,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4ca033aa1e0e4774",
+  "active": "a60cd8aee400b065",
   "lastOpenFiles": [
     "Software/Cargo Cult Programming.md",
     "Human/Hindsight bias.md",
