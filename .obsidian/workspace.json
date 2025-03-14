@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5816659d88445100",
+        "id": "023a0b306dad7c2a",
         "type": "tabs",
         "children": [
           {
-            "id": "4ca033aa1e0e4774",
+            "id": "6d52e60c0ff68f86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Human/Hindsight bias.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Hindsight bias"
-            }
-          },
-          {
-            "id": "a60cd8aee400b065",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vocab/Graham's Hierarchy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Graham's Hierarchy"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,11 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Vocab/Graham's Hierarchy.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Graham's Hierarchy"
+              "title": "File properties"
             }
           }
         ],
@@ -236,10 +195,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a60cd8aee400b065",
+  "active": "6d52e60c0ff68f86",
   "lastOpenFiles": [
-    "Software/Cargo Cult Programming.md",
     "Human/Hindsight bias.md",
+    "Human/ADHD/Self-Regulation.md",
+    "Vocab/Adrenaline.md",
+    "Vocab/Graham's Hierarchy.md",
+    "Software/Cargo Cult Programming.md",
     "Human/Medial pre-optic Area.md",
     "Human/Intellectual humility.md",
     "Philosophy/Homonym.md",
@@ -247,7 +209,6 @@
     "Vocab/Melanopsin ganglion cells.md",
     "Vocab/Negativity bias.md",
     "Vocab/Hypothalamus.md",
-    "Vocab/Graham's Hierarchy.md",
     "Vocab/Epinephrine.md",
     "Vocab/Empirical definition.md",
     "Vocab/Dunbar number.md",
@@ -262,8 +223,6 @@
     "Human/Estrogen.md",
     "Human/Human.md",
     "Human/Parasympathetic Nervous System.md",
-    "Vocab/Tribe.md",
-    "Vocab/Technique vs Strategy.md",
     "Pasted image 20241225153932.png",
     "Science",
     "People",
