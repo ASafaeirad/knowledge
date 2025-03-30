@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Software Enginnering.md",
+                "file": "Human/Escalation of commitment.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Software Enginnering"
+              "title": "Escalation of commitment"
             }
           }
         ]
@@ -186,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Software/Software Enginnering.md"
+                "file": "Human/Escalation of commitment.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Software Enginnering"
+              "title": "File properties for Escalation of commitment"
             }
           }
         ],
@@ -213,6 +213,7 @@
   },
   "active": "6d52e60c0ff68f86",
   "lastOpenFiles": [
+    "Software/Software Enginnering.md",
     "Human/Hindsight bias.md",
     "Human/ADHD/Self-Regulation.md",
     "Vocab/Adrenaline.md",
@@ -238,7 +239,6 @@
     "Human/Dunning–Kruger effect.md",
     "Human/Estrogen.md",
     "Human/Human.md",
-    "Human/Parasympathetic Nervous System.md",
     "Pasted image 20241225153932.png",
     "Science",
     "People",
