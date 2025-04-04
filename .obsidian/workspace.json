@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human/Escalation of commitment.md",
+                "file": "Software/Auto-tracking synchronization engine.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Escalation of commitment"
+              "title": "Auto-tracking synchronization engine"
             }
           }
         ]
@@ -186,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Human/Escalation of commitment.md"
+                "file": "Software/Auto-tracking synchronization engine.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Escalation of commitment"
+              "title": "File properties for Auto-tracking synchronization engine"
             }
           }
         ],
@@ -213,6 +213,7 @@
   },
   "active": "6d52e60c0ff68f86",
   "lastOpenFiles": [
+    "Human/Escalation of commitment.md",
     "Software/Software Enginnering.md",
     "Human/Hindsight bias.md",
     "Human/ADHD/Self-Regulation.md",
@@ -238,7 +239,6 @@
     "Human/Costly Signaling Theory.md",
     "Human/Dunning–Kruger effect.md",
     "Human/Estrogen.md",
-    "Human/Human.md",
     "Pasted image 20241225153932.png",
     "Science",
     "People",
