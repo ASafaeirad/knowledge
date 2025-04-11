@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "515f1065ca6ac155",
+        "id": "5155b2d06dd48ac4",
         "type": "tabs",
         "children": [
           {
-            "id": "6f162b6f13d2b66c",
+            "id": "3118f9d0c1723038",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Software/UUID in Linux.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "UUID in Linux"
             }
           }
         ]
@@ -171,9 +185,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Software/UUID in Linux.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for UUID in Linux"
             }
           }
         ],
@@ -195,8 +211,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6f162b6f13d2b66c",
+  "active": "3118f9d0c1723038",
   "lastOpenFiles": [
+    "Philosophy/Eudaimonia.md",
+    "Quotes/Two Pizza Team.md",
+    "Vocab/Slippery slope.md",
+    "Software/GDPR.md",
+    "Mastery/Emotional Intelligence Quotient.md",
+    "Quotes/Game vs Work.md",
+    "Philosophy/Epicurus.md",
+    "Quotes/I Can Meet any Schedule.md",
+    "Mastery/Morning Routine.md",
+    "Philosophy/Perception.md",
     "Software/Auto-tracking synchronization engine.md",
     "Human/Escalation of commitment.md",
     "Software/Software Enginnering.md",
@@ -208,21 +234,11 @@
     "Human/Medial pre-optic Area.md",
     "Human/Intellectual humility.md",
     "Philosophy/Homonym.md",
-    "Mastery/Emotional Intelligence Quotient.md",
     "Vocab/Melanopsin ganglion cells.md",
     "Vocab/Negativity bias.md",
     "Vocab/Hypothalamus.md",
     "Vocab/Epinephrine.md",
     "Vocab/Empirical definition.md",
-    "Vocab/Dunbar number.md",
-    "Vocab/Depression.md",
-    "People/Robert Brown.md",
-    "Human/Curse of Knowledge.md",
-    "Human/Cortisol.md",
-    "Human/Adenosine.md",
-    "Human/Adrenals.md",
-    "Human/Costly Signaling Theory.md",
-    "Human/Dunning–Kruger effect.md",
     "Pasted image 20241225153932.png",
     "Science",
     "People",
