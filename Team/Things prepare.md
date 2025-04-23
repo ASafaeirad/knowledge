@@ -1,3 +1,8 @@
+---
+tags:
+  - team-lead
+  - people
+---
 What need to be prepared: 
 1. Agenda Management 
 2. Say No more often 

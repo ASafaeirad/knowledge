@@ -29,7 +29,7 @@
 1. **Test the [[Inference]]**:
    If the inductive argument has a good inference, it is a strong argument. If the inductive argument has a bad inference, it is weak.
 2. **Test the [[Premise|premises]]**
-   If the inductive argument is strong and has true premises, the argument is cogent. If the inductive argument is strong and has false premises, the argument is uncogent. Finally, all weak arguments are considered uncogent.
+   If the inductive argument is strong and has true premises, the argument is cogent. If the inductive argument is strong and has false premises, the argument is **uncogent**. Finally, all weak arguments are considered **uncogent**.
 
 Resources:
 * https://lucidphilosophy.com/ch-11-logic-vocabulary-in-one-diagram/

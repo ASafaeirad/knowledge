@@ -1,1 +1,0 @@
-#philosophy #concept #logic #todo

@@ -1,1 +1,2 @@
 #logic #philosophy #concept 
+A **premise** or **premiss** is a [[proposition]]—a true or false declarative statement—used in an [[argument]] to prove the truth of another proposition called the [[conclusion]]. Arguments consist of a set of premises and a conclusion.

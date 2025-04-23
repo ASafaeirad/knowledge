@@ -1,6 +1,5 @@
 ---
 tags:
   - todo
-  - human
-  - hormone
+  - philosophy
 ---

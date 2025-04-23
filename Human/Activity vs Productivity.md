@@ -1,0 +1,1 @@
+Productivity refers to moving the sales cycle forward, improving application numbers and increasing booked volume. Productivity measures how well you are able to meet the goals and objectives of your leasing company, regardless of whether these are short-term or long-term goals.
