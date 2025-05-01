@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "Testosterone"
             }
-          },
-          {
-            "id": "a8bf0be97136995d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software/Critical Rendering Path.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Critical Rendering Path"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Software/Critical Rendering Path.md"
+                "file": "Human/Testosterone.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Critical Rendering Path"
+              "title": "File properties for Testosterone"
             }
           }
         ],
@@ -236,8 +211,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a8bf0be97136995d",
+  "active": "3118f9d0c1723038",
   "lastOpenFiles": [
+    "Human/Spotlight Effect.md",
+    "Quotes/Limit of Language.md",
+    "Philosophy/Information Bubble.md",
+    "Software/Critical Rendering Path.md",
     "Human/Testosterone.md",
     "Vocab/Secondary Sexual Characteristics.md",
     "Notes.md",
@@ -260,10 +239,6 @@
     "Human/Hindsight bias.md",
     "Human/ADHD/Self-Regulation.md",
     "Vocab/Adrenaline.md",
-    "Vocab/Graham's Hierarchy.md",
-    "Software/Cargo Cult Programming.md",
-    "Human/Medial pre-optic Area.md",
-    "Human/Intellectual humility.md",
     "Pasted image 20241225153932.png",
     "Science",
     "People",
