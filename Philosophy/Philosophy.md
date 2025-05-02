@@ -30,6 +30,7 @@
 - [[Prohairesis]]
 - [[Proposition]]
 - [[Reasoning]]
+- [[Retrospective vs Prospective Reasoning]]
 - [[Stoicism]]
 - [[Syntax]]
 - [[Testimony]]
