@@ -6,6 +6,7 @@
 - [[Competency]]
 - [[Deliberate Practice]]
 - [[Emotional Intelligence Quotient]]
+- [[Emotional Intelligence]]
 - [[Explicit Knowledge]]
 - [[Goodhart's law]]
 - [[Growth is not linear]]

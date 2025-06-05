@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roadmap.md",
+                "file": "Vocab/Graham's Hierarchy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Roadmap"
+              "title": "Graham's Hierarchy"
             }
           }
         ]
@@ -188,10 +188,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Roadmap.md"
+                "file": "Vocab/Graham's Hierarchy.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Roadmap"
+              "title": "File properties for Graham's Hierarchy"
             }
           }
         ],
@@ -215,8 +215,17 @@
   },
   "active": "fb0b93d19373ad74",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Human/Hippocampus.md",
+    "Human/Amygdala-Hippocampus Interaction.md",
+    "Human/Spatial Memory.md",
+    "Human/Memory Consolidation.md",
+    "Mastery/Emotional Intelligence.md",
+    "Mastery/Emotional Intelligence Quotient.md",
+    "Mastery/Untitled",
+    "Human/Psychology/Spotlight Effect.md",
+    "Team/Team.md",
     "Roadmap.md",
+    "Untitled.canvas",
     "How to Get Ahead of 99% of People.md",
     "Memory.md",
     "Notes.md",
@@ -234,15 +243,8 @@
     "Human/Hindsight bias.md",
     "Human/Hype Cycle.md",
     "Philosophy/Logic Vocabulary.md",
-    "Philosophy/Reasoning.md",
-    "Philosophy/Inference.md",
-    "Philosophy/Epistemology.md",
-    "Language/Collocation.md",
-    "Quotes/Quotes.md",
     "My.canvas",
     "Untitled 1.canvas",
-    "Philosophy/ابتذال.md",
-    "Vocab/Cortisol Pulse.md",
     "Human/Psychology",
     "Assets/Pasted image 20240421203459 1.png",
     "Assets/Pasted image 20240421203459.png",
