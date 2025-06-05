@@ -105,13 +105,16 @@ graph TD
 
 Psychologist Paul Ekman identified 7 universal facial expressions:
 
-* Happiness
-* Sadness
-* Anger
-* Fear
-* Disgust
-* Surprise
-* Contempt
+| Emotion   | Trigger                     | Function                | Facial Indicators               |
+| --------- | --------------------------- | ----------------------- | ------------------------------- |
+| Surprise  | Sudden unexpected event     | Focus attention         | Raised eyebrows, open mouth     |
+| Fear      | Threat or danger            | Avoid/reduce harm       | Raised upper lids, tense mouth  |
+| Anger     | Obstructed goals            | Eliminate threat        | Lowered brows, tight lips       |
+| Disgust   | Offensive stimulus          | Reject/remove stimulus  | Wrinkled nose, raised upper lip |
+| Contempt  | Moral superiority           | Assert dominance        | One-sided smirk                 |
+| Sadness   | Loss of something valuable  | Signal need for support | Drooping eyes, downturned lips  |
+| Happiness | Positive outcome/connection | Signal friendliness     | Smiling, raised cheeks          |
+
 These are recognized across cultures and linked to specific facial muscle activations.
 
 
@@ -273,19 +276,16 @@ Your attention is your gateway to emotional understanding. If you aren’t aware
 
 1. **Confirmation Bias**: Tendency to focus on info that confirms existing beliefs
 2. **Fundamental Attribution Error**: Overemphasizing personality over situation when judging others
+3. **Self-Serving Bias**: Attributing your success to self, but failure to external causes
+4. **Me-Theory Bias**: Assuming others feel or think the same way you do
+5. **Halo Effect**: Letting one positive trait influence all judgments
+6. **Othello Error**: Mistaking fear or stress as signs of guilt
 
-Self-Serving Bias
+## Five Channels of Emotional Communication
 
-Attributing your success to self, but failure to external causes
+1. **Voice** (tone, pitch, volume)
+2. **Verbal Style** (word choice, fluency)
+3. **Verbal Content** (message)
+4. **Facial Expressions** (muscles, microexpressions)
+5. **Body Language** (posture, gestures)
 
-Me-Theory Bias
-
-Assuming others feel or think the same way you do
-
-Halo Effect
-
-Letting one positive trait influence all judgments
-
-Othello Error
-
-Mistaking fear or stress as signs of guilt
