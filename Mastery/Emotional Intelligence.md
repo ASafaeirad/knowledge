@@ -6,7 +6,7 @@ tags:
 ---
 ## 1. Introduction
 
-**[[Emotional Intelligence Quotient|Emotional Intelligence (EI)]]** is the capacity to recognize, understand, manage, and influence emotions—both your own and those of others. Originally popularized by Daniel Goleman in the 1990s, EI has become a critical factor in personal effectiveness and workplace success.
+**[[Emotional Intelligence Quotient|Emotional Intelligence (EI)]]** is the capacity to recognize, understand, manage, and influence emotions, both your own and those of others. Originally popularized by Daniel Goleman in the 1990s, EI has become a critical factor in personal effectiveness and workplace success.
 
 > "In a very real sense we have two minds, one that thinks and one that feels." 
 > – _Daniel Goleman_
