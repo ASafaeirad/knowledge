@@ -7,6 +7,7 @@
 - [[People Management Skills]]
 - [[RACI Model]]
 - [[Red Light vs Green Light Thinking]]
+- [[Situation-Behavior-Impact]]
 - [[Tech Lead]]
 - [[Things prepare]]
 

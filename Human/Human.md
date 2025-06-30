@@ -40,6 +40,7 @@
 	- [[Perfectionism]]
 	- [[Spotlight Effect]]
 	- [[The Prisoner's Dilemma]]
+	- [[Zeigarnik Effect]]
 - [[Representativeness heuristic]]
 - [[Spatial Memory]]
 - [[Sympathetic Nervous System]]
