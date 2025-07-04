@@ -52,10 +52,34 @@
 .prompt-modal-container {
 	display: flex;
 	flex-direction: row;
+	align-items: stretch;
+	justify-content: flex-start;
 	column-gap: 0.3em;
 	font-weight: 300;
 	font-style: italic;
 }
+
+.chat-button-container {
+	display: flex;
+	flex-direction: row;
+	align-items: baseline;
+	justify-content: space-between;
+}
+
+.chat-button-container-right {
+	display: flex;
+	flex-direction: row;
+	align-items: stretch;
+	justify-content: flex-end;
+	gap: 5px;
+
+}
+.upper-border {
+	border-top: 1px solid #686868;
+	padding-top: 5px;
+}
+
+
 
 .prompt-left-container {
 	display: flex;
@@ -68,7 +92,8 @@
 	display: flex;
     flex-direction: column;
     justify-content: space-around;
-	row-gap: 0.1em;
+	align-items: center;
+	row-gap: 0.2em;
 }
 
 .speech-modal-container{
@@ -86,3 +111,38 @@
 	margin-block-start: 0;
     margin-block-end: 0;
 	}
+
+.hidden-file {
+  opacity: 0;
+  width: 0.1px;
+  height: 0.1px;
+  position: absolute;
+  overflow: hidden;
+  z-index: -1;
+}
+
+.delete-btn {
+    position: absolute;
+    top: -8px;
+    right: -8px;
+    display: none;
+}
+.copy-btn {
+    position: absolute;
+    top: -8px;
+    left: -8px;
+    display: none;
+}
+
+.coffee-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.coffee-button-img {
+    width: 200px; /* or whatever width you prefer */
+    max-width: 100%; /* ensures it doesn't overflow on smaller screens */
+    height: auto; /* maintains aspect ratio */
+}

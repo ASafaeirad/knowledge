@@ -18,7 +18,7 @@
   "bookmarks": true,
   "markdown-importer": false,
   "zk-prefixer": false,
-  "random-note": false,
+  "random-note": true,
   "outline": true,
   "word-count": true,
   "slides": false,
@@ -26,6 +26,6 @@
   "workspaces": false,
   "file-recovery": true,
   "publish": false,
-  "sync": true,
+  "sync": false,
   "webviewer": false
 }
