@@ -6,6 +6,7 @@
 - [[Cargo Cult Programming]]
 - [[Collaborative Requirements Gathering]]
 - [[Critical Rendering Path]]
+- [[Double Diamond]]
 - [[Dual-Track Agile]]
 - [[Error Message]]
 - **[[FP in TS]]**
