@@ -125,5 +125,3 @@ Don't wait.
 Life is too short.
 
 Take action and have fun.
-
----
