@@ -5,11 +5,11 @@ The most traditional and widely used structures, where the company is divided in
 This structure is often used by larger companies that operate across different geographical areas or have distinct product lines. Each division operates almost like its own company, with its own resources and objectives, but aligns with the overall direction of the larger organization.
 ### Matrix
  This structure combines elements of both functional and divisional models, involving a more complex framework where employees may report to multiple managers or teams. For example, a software developer might report both to a product lead as well as a departmental head.
-![[Pasted image 20240424125029 1.png]]
+![[Matrix-Reporting.png]]
 ## Flat
 Popular among startups and smaller companies, this structure has few or no levels of middle management between staff and executives. This allows for quicker decision-making and closer communication but can lead to challenges as the company grows.
 
-![[Pasted image 20240424162057.png]]
+![[Organization-Types.png]]
 https://www.notion.so/blog/organizational-structure
 
 ## Executive Level

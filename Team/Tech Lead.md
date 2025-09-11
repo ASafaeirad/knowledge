@@ -1,11 +1,11 @@
 A Tech Lead Is a software engineer, responsible for leading a development team, and responsible for the quality of its technical deliverables
 
-![[Pasted image 20230521090603.png]]
+![[Tech Lead.png]]
 
 
 ## Responsibilities
 
-![[Pasted image 20230521085459.png]]
+![[TechLead-Time.png]]
 
 * Aligning Team
 * Technical vision
@@ -52,7 +52,7 @@ Sometimes there's no right answer.
 
 People are unique and they have different strengths
 
-![[Pasted image 20230524100354.png]]
+![[Situational-Leadership-Model.png]]
 
 ## Situational Leadership Model
 

@@ -8,7 +8,6 @@ Dual-track agile is an agile methodology that contains two separate tracks. Ther
 **Discovery track**: Focuses on producing, testing, and validating product ideas.
 **Delivery track**: Works on turning those ideas into an actual product. 
 
-
 ## Discovery track
 Here at product board, we spend a lot of time making sure we understand exactly what we should be building for our users. You can use [[Double Diamond]] for conducting product discovery, structured as follows:
 
