@@ -32,6 +32,7 @@
 - [[Premise]]
 - [[Prohairesis]]
 - [[Proposition]]
+- [[Qualia]]
 - [[Reasoning]]
 - [[Retrospective vs Prospective Reasoning]]
 - [[Stoicism]]
