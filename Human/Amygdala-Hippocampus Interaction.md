@@ -8,7 +8,7 @@ aliases:
 ---
 The amygdala-hippocampus interaction plays a crucial role in how we process and retain emotional memories. These two brain structures, while distinct in function, are tightly interconnected and often work in tandem to shape our responses to emotionally significant experiences.
 
-The [[Amygdala]] is primarily responsible for detecting and responding to emotional stimuli, especially those related to fear, threat, and reward. It acts as an emotional spotlight, helping the brain determine what events are emotionally charged and deserve heightened attention. The [[Hippocampus]], on the other hand, is central to the formation and retrieval of declarative memories — the memories of facts, events, and context, such as time and place.
+The [[Amygdala]] is primarily responsible for detecting and responding to emotional stimuli, especially those related to fear, threat, and reward. It acts as an emotional spotlight, helping the brain determine what events are emotionally charged and deserve heightened attention. The [[Hippocampus]], on the other hand, is central to the formation and retrieval of declarative memories, the memories of facts, events, and context, such as time and place.
 
 When an emotionally intense event occurs, the amygdala becomes highly active and influences the hippocampus to strengthen the encoding of that event. This process is often referred to as **emotional tagging**. The heightened emotional state signals to the hippocampus that the memory is significant, enhancing the likelihood that it will be consolidated and stored for the long term.
 
