@@ -20,6 +20,7 @@
 - [[Introspection]]
 - [[Intuition]]
 - [[Is–ought problem]]
+- [[Kohlberg’s 6 Stages of Moral Development]]
 - [[Logic Vocabulary]]
 - [[Logic]]
 - [[Logical form]]
