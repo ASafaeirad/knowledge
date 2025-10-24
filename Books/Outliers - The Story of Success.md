@@ -1,2 +1,0 @@
-#book
-Author: Malcolm Gladwell

@@ -1,6 +1,8 @@
 ---
 tags:
   - ei
+  - human
+  - psychology
 ---
 Empathy is the capacity to understand and share another person's emotional state. It is foundational to emotional intelligence and effective collaboration. Empathy isn’t about agreeing—it’s about understanding.
 

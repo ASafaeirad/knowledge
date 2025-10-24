@@ -1,1 +1,6 @@
-#todo
+---
+tags:
+  - mastery
+  - memory
+  - human
+---

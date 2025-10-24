@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasTag("psychology")
+    order:
+      - file.name
+      - file.tags
+  - type: cards
+    name: Cards
+    filters:
+      and:
+        - file.hasTag("psychology")
+    imageFit: ""

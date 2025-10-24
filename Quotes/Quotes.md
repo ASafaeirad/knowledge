@@ -8,6 +8,7 @@
 - [[Limit of Language]]
 - [[Marcus Aurelius]]
 - [[Maturity]]
+- [[Murphy's law]]
 - [[Plan vs Act]]
 - [[Success]]
 - [[Top Quotes]]

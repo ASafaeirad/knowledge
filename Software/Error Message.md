@@ -2,11 +2,11 @@
 
 ## Bad Error
 
-![[Pasted image 20230517111923.png]]
+![[UX Error 1.png]]
 
 ## Good Error
 
-![[Pasted image 20230517112000.png]]
+![[UX Error 2.png]]
 
 ## Bottom Line
-![[Pasted image 20230517112142.png]]
+![[UX Error 3.png]]

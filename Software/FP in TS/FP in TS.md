@@ -1,5 +1,8 @@
-#software #fp #todo
-
+---
+tags:
+  - software
+  - fp
+---
 ![FP%20in%20TS%20734474cedc594be0a955dc059b804dff/Untitled.png](Software/FP%20in%20TS/Untitled.png)
 
 ### FP to JS
