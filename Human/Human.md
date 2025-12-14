@@ -34,6 +34,7 @@
 - [[Memory]]
 - [[Menu effect]]
 - [[Noradrenaline]]
+- [[Osmotic Concentration]]
 - **Psychology**
 	- [[Agentic Thinking]]
 	- [[Cognitive Closure]]
@@ -55,6 +56,7 @@
 - [[Steroid Hormones]]
 - [[Sympathetic Nervous System]]
 - [[Testosterone]]
+- [[Water Intoxication]]
 
 %% End Waypoint %%
 
