@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasTag("software")
+    order:
+      - file.name
+      - file.basename
+      - file.backlinks
+    sort:
+      - property: file.name
+        direction: ASC

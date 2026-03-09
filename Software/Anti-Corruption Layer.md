@@ -6,11 +6,11 @@ Consider the scenario where you're integrating with an external system or a lega
 
 In practice, the Anti-Corruption Layer might consist of:
 
-Facades: Simple interfaces that represent complex subsystems.
-Adapters: Convert data from one format or interface to another.
-Translators: Convert one object's methods and properties to match another object's.
-By isolating your system from external influences, the ACL can help to:
+**Facades**: Simple interfaces that represent complex subsystems.
+**Adapters**: Convert data from one format or interface to another.
+**Translators**: Convert one object's methods and properties to match another object's.
 
+By isolating your system from external influences, the ACL can help to:
 Maintain the integrity and purity of your domain model.
 Make the integration with external systems more manageable.
 Allow the two systems to evolve independently without affecting each other.
