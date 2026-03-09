@@ -6,8 +6,10 @@
 - [[Cargo Cult Programming]]
 - [[Collaborative Requirements Gathering]]
 - [[Critical Rendering Path]]
+- [[Deflate]]
 - [[Double Diamond]]
 - [[Dual-Track Agile]]
+- [[Entropy coding]]
 - [[Error Message]]
 - **[[FP in TS]]**
 
@@ -15,8 +17,10 @@
 - [[GDPR]]
 - [[Github Action Debug]]
 - [[Heisenbug]]
+- [[Huffman coding]]
 - [[IDN homograph attack]]
 - [[Keyboard Layout]]
+- [[LZ77]]
 - [[Mechanism over Policies]]
 - [[OOP Jungle]]
 - [[Open source problems]]
@@ -30,6 +34,7 @@
 - **[[Testing Environments]]**
 
 - [[Trunk Base Development]]
+- [[Untitled]]
 - [[UUID in Linux]]
 - [[Why Pull Requests Are A Bad IDEA]]
 - [[ZSH Completion]]
